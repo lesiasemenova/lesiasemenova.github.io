@@ -4,7 +4,8 @@ layout: page
 <div class="publications">
   <p style="margin-bottom: 20px;">{{ page.research_interests }}</p>
   <h2 style="text-align: left; margin-bottom: 8px;">Publications</h2>
-  <p>* denotes equal contribution</p>
+  <a href = "https://scholar.google.com/citations?user=0O3TE70AAAAJ">Google Scholar</a> | <a href = "https://dblp.uni-trier.de/pid/246/4967.html">dblp</a> | * denotes equal contribution
+  {% comment %} <p>* denotes equal contribution</p> {% endcomment %}
 
   {% assign publications_by_year = page.publications | group_by: 'year' | sort: 'name' %}
   {% assign sorted_years = publications_by_year | sort: 'name' | reverse %}
