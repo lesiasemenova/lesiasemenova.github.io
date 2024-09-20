@@ -94,7 +94,7 @@ publications:
     year: 2022
     pdf_url: https://arxiv.org/pdf/1908.01755
     code_url:
-    video_url: https://www.youtube.com/watch?v=_DFOQPqBb18
+    video_url: "https://www.youtube.com/watch?v=_DFOQPqBb18"
     bib_file: SemenovaRuPa2022.bib
     other:
 
