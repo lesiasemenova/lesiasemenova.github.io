@@ -1,7 +1,10 @@
 ---
 layout: page
+permalink: /prospective_students/
 inline: true
+title: prospective
 related_posts: false
+nav: false
 ---
 
 Thank you for your interest in my research group!
