@@ -1,0 +1,48 @@
+---
+layout: page
+---
+
+<div class="publications">
+  <p style="margin-bottom: 20px;">{{page.research_interests}}</p>
+  <h2 style="text-align: left; margin-bottom: 8px;">Publications</h2>
+  <p>* denotes equal contribution</p>
+
+  {% assign publications_by_year = page.publications | group_by: "year" | sort: "name" %}
+  {% assign sorted_years = publications_by_year | sort: "name" | reverse %}
+
+  <ol class="bibliography">
+    {% for year_group in sorted_years %}
+      <li style="margin-top: 30px;">
+        <h3>{{ year_group.name }}</h3>
+        <div class="year-divider" style="border-top: 2px solid #ccc; margin: 10px 0;"></div>
+        {% for publication in year_group.items %}
+        <div class="pub-row" style="margin-bottom: 20px;">
+          <div class="col-sm-9" style="padding-right: 15px; padding-left: 20px;">
+            <div class="title"><a href="{{ publication.pdf_url }}">{{ publication.title }}</a></div>
+            <div class="author">{{ publication.authors }}</div>
+            <div class="venue"><em>{{ publication.venue }}, {{ publication.year }}</em></div>
+            {% if publication.other %}
+              <span style="font-style: italic; color: var(--global-divider-color); margin-left: 10px;">{{ publication.other }}</span>
+            {% endif %}
+            <div class="links" style="display: flex; align-items: center;">
+              {% if publication.pdf_url %}
+                <a href="{{ publication.pdf_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:10px;">PDF</a>
+              {% endif %}
+              {% if publication.code_url %}
+                <a href="{{ publication.code_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:10px;">Code</a>
+              {% endif %}
+              {% if publication.video_url %}
+                <a href="{{ publication.video_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:10px;">Video</a>
+              {% endif %}
+              {% if publication.bib_file %}
+                <a href="{{ '/assets/bib/' | append: publication.bib_file }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:10px;">Bib</a>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </li>
+    {% endfor %}
+  </ol>
+</div>
+

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-09-05
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Presented at the [Theory of Interpretable AI Seminar](https://tverven.github.io/tiai-seminar/). Please see the recording [here](https://www.youtube.com/watch?v=PtUauSBcHuc&ab_channel=TheoryofInterpretableAISeminar).
