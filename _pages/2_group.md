@@ -2,9 +2,11 @@
 layout: profiles-custom
 permalink: /group/
 title: group
-#description: members of the lab or group
+#description:  <p>I am currently recruiting students at Rutgers. If you're interested in joining my group, please take a look at <a href="/_pages/prospective_students/">this page</a>.</p>
 nav: true
 nav_order: 3
+
+note: <p>I am currently recruiting students at Rutgers. If you're interested in joining my group, please take a look at <a href="/_pages/prospective_students/">this page</a>.</p>
 
 groups:
   - name: Close Collaborators
