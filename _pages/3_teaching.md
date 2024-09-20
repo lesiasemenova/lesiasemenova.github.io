@@ -10,7 +10,6 @@ nav_order: 4
 I have formal pedagogical training in college teaching from Duke Graduate School.
 I served as a Teaching Assistant for the following classes:
 
-
 <ul>
   <li>CS474, Data Science Competition, SP23, Duke University</li>
   <li>Terng Lecture Course on Interpretable Machine Learning, May 2022, Institute of Advanced Study</li>
@@ -19,4 +18,3 @@ I served as a Teaching Assistant for the following classes:
   <li>CS571, Probabilistic Machine Learning, SP18, Duke University</li>
   <li>CS101, Introduction to Computer Science, SP17, Duke University</li>
 </ul>
-

@@ -13,8 +13,8 @@ publications:
     venue: Proceedings of the International Conference on Machine Learning (ICML)
     year: 2024
     pdf_url: https://arxiv.org/pdf/2407.04846
-    code_url: 
-    video_url: 
+    code_url:
+    video_url:
     bib_file: RudinEtAlAmazing2024.bib
     other: spotlight
 
@@ -23,10 +23,10 @@ publications:
     venue: Advances in Neural Information Processing Systems (NeurIPS)
     year: 2023
     pdf_url: https://arxiv.org/abs/2310.19726
-    code_url: 
+    code_url:
     video_url: https://neurips.cc/virtual/2023/poster/71482
     bib_file: SemenovaEtAl2023.bib
-    other: 
+    other:
 
   - title: "Sparse density trees and lists: An interpretable alternative to high-dimensional histograms"
     authors: Siong Thye Goh*, Lesia Semenova*, Cynthia Rudin
@@ -34,36 +34,36 @@ publications:
     year: 2024
     pdf_url: https://pubsonline.informs.org/doi/pdf/10.1287/ijds.2021.0001
     code_url: https://codeocean.com/capsule/2414499/tree/v1
-    video_url: 
+    video_url:
     bib_file: Goh24.bib
-    other:   
+    other:
 
   - title: Transition Noise Facilitates Interpretability
     authors: Ronald Parr, Cynthia Rudin, Harry Chen, Zachery Boner, Michal Moshkovitz, Lesia Semenova
     venue: Workshop on Interpretable Policies in Reinforcement Learning@ RLC-2024
     year: 2024
     pdf_url: https://openreview.net/pdf?id=1G8tdr6eFb
-    code_url: 
-    video_url: 
+    code_url:
+    video_url:
     bib_file: Parr24.bib
-    other: oral  
+    other: oral
 
   - title: Machine learning approaches identify immunologic signatures of total and intact HIV DNA during long-term antiretroviral therapy
     authors: Lesia Semenova, Yingfan Wang, Shane Falcinelli, Nancie Archin, Alicia D Cooper-Volkheimer, David M Margolis, Nilu Goonetilleke, David M Murdoch, Cynthia D Rudin, Edward P Browne
     venue: eLife
     year: 2024
     pdf_url: https://elifesciences.org/articles/94899
-    code_url: 
-    video_url: 
+    code_url:
+    video_url:
     bib_file: SemenovaWang24.bib
-    other:   
+    other:
 
   - title: "ProtoEEGNet: An Interpretable Approach for Detecting Interictal Epileptiform Discharges"
     authors: Dennis Tang, Frank Willard, Ronan Tegerdine, Luke Triplett, Jon Donnelly, Luke Moffett, Lesia Semenova, Alina Jade Barnett, Jin Jing, Cynthia Rudin, Brandon Westover
     venue: Medical Imaging meets NeurIPS Workshop
     year: 2023
     pdf_url: https://arxiv.org/pdf/2312.10056
-    code_url: 
+    code_url:
     video_url: https://nips.cc/virtual/2023/84594
     bib_file: Tang23.bib
     other: oral
@@ -74,61 +74,60 @@ publications:
     year: 2023
     pdf_url: https://arxiv.org/pdf/2311.13015
     code_url: https://github.com/MuhangTian/GFR-Experiments
-    video_url: 
-    bib_file: 
-    other: 
+    video_url:
+    bib_file:
+    other:
 
   - title: Impact of Cannabis Use on Immune Cell Populations and the Viral Reservoir in People With HIV on Suppressive Antiretroviral Therapy
     authors: Shane D Falcinelli, Alicia Volkheimer, Lesia Semenova, Ethan Wu, Alexander Richardson, Manickam Ashokkumar, David M Margolis, Nancie M Archin, Cynthia D Rudin, David Murdoch, Edward P Browne
     venue: The Journal of Infectious Disease (JID)
     year: 2023
     pdf_url: https://www.biorxiv.org/content/10.1101/2022.12.22.521628v1.full.pdf
-    code_url: 
-    video_url: 
+    code_url:
+    video_url:
     bib_file: Falcinelli2023.bib
-    other: 
+    other:
 
   - title: On the existence of simpler machine learning models
     authors: Lesia Semenova, Cynthia Rudin, Ronald Parr
     venue: Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT)
     year: 2022
     pdf_url: https://arxiv.org/pdf/1908.01755
-    code_url: 
+    code_url:
     video_url: https://www.youtube.com/watch?v=_DFOQPqBb18
     bib_file: SemenovaRuPa2022.bib
-    other: 
+    other:
 
   - title: "Moving towards a more equal world, one ride at a time: Studying Public Transportation Initiatives using interpretable causal inference"
     authors: Gaurav Rajesh Parikh, Albert Sun, Jenny Huang, Lesia Semenova, Cynthia Rudin
     venue: NeurIPS 2022 Workshop on Causality for Real-world Impact
     year: 2022
     pdf_url: https://openreview.net/pdf?id=ZNUcipRpUck
-    code_url: 
-    video_url: 
+    code_url:
+    video_url:
     bib_file: Parikh22.bib
     other: won 2022	American Statistical Association	Data Challenge Expo	Student	Competition
 
-  - title: 	"Interpretable machine learning: Fundamental principles and 10 grand challenges"
+  - title: "Interpretable machine learning: Fundamental principles and 10 grand challenges"
     authors: Cynthia Rudin, Chaofan Chen, Zhi Chen, Haiyang Huang, Lesia Semenova, Chudi Zhong
     venue: Statistics Surveys
     year: 2022
     pdf_url: https://projecteuclid.org/journals/statistics-surveys/volume-16/issue-none/Interpretable-machine-learning-Fundamental-principles-and-10-grand-challenges/10.1214/21-SS133.full
-    code_url: 
-    video_url: 
+    code_url:
+    video_url:
     bib_file: RudinEtAlAmazing2024.bib
-    other: 
+    other:
 
   - title: Multitask learning for citation purpose classification
     authors: Alex Oesterling, Angikar Ghosal, Haoyang Yu, Rui Xin, Yasa Baig, Lesia Semenova, Cynthia Rudin
     venue: Second Workshop on Scholarly Document Processing at NAACL
     year: 2021
     pdf_url: https://arxiv.org/pdf/2106.13275
-    code_url: 
-    video_url: 
+    code_url:
+    video_url:
     bib_file: Baig21.bib
     other: oral, won <a href = "https://www.kaggle.com/c/3c-shared-task-purpose-v2/leaderboard">third place</a> in the 3C Shared Task Competition
 ---
-
 
 <!-- ---
 layout: page

@@ -15,5 +15,3 @@ I donate to the following 501(c)(3) non-profit organizations that support Ukrain
   <li><a href = "https://dignitas.fund/">Dignitas Ukraine
 </a></li>
 </ul>
-
-

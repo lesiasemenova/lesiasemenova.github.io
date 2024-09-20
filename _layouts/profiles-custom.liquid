@@ -2,29 +2,29 @@
 layout: page
 ---
 <style>
-.imgtable {
-  margin: 10px 0; /* Margin between profiles */
-}
+  .imgtable {
+    margin: 10px 0; /* Margin between profiles */
+  }
 
-hr {
-  margin: 5px 0; /* Margin for horizontal rules */
-}
+  hr {
+    margin: 5px 0; /* Margin for horizontal rules */
+  }
 
-.group-separator {
-  border: none; /* Removes default border */
-  height: 2px; /* Height of the orange bar */
-  background-color: var(--global-divider-color); /* Color of the bar */
-  margin: 10px 0; /* Margin around the orange bar */
-}
+  .group-separator {
+    border: none; /* Removes default border */
+    height: 2px; /* Height of the orange bar */
+    background-color: var(--global-divider-color); /* Color of the bar */
+    margin: 10px 0; /* Margin around the orange bar */
+  }
 
-h2 {
-  font-size: 1.5em; /* Adjusts the font size of the group title */
-  margin: 0; /* Removes default margin */
-}
+  h2 {
+    font-size: 1.5em; /* Adjusts the font size of the group title */
+    margin: 0; /* Removes default margin */
+  }
 
-.group-spacing {
-  margin-top: 40px; /* Adds space before the next group */
-}
+  .group-spacing {
+    margin-top: 40px; /* Adds space before the next group */
+  }
 </style>
 
 <div class="post">
@@ -32,14 +32,22 @@ h2 {
     {% if page.groups %}
       {% for group in page.groups %}
         <h2>{{ group.name }}</h2>
-        <div class="group-separator"></div> <!-- Orange bar only after group title -->
+        <div class="group-separator"></div>
+        <!-- Orange bar only after group title -->
         {% if group.profiles %}
           {% for profile in group.profiles %}
             <table class="imgtable">
               <tr>
                 <td>
                   {% if profile.image %}
-                    <img src="{{ '/assets/img/' | append: profile.image }}" alt="{{ profile.name }}" width="100" height="100" class="{% if profile.image_circular %}circular-image{% endif %}" />&nbsp;
+                    <img
+                      src="{{ '/assets/img/' | append: profile.image }}"
+                      alt="{{ profile.name }}"
+                      width="100"
+                      height="100"
+                      class="{% if profile.image_circular %}circular-image{% endif %}"
+
+                    >&nbsp;
                   {% endif %}
                 </td>
                 <td align="left">
@@ -54,10 +62,11 @@ h2 {
                   </p>
                 </td>
               </tr>
-            </table> 
+            </table>
           {% endfor %}
         {% endif %}
-        <div class="group-spacing"></div> <!-- Space before the next group -->
+        <div class="group-spacing"></div>
+        <!-- Space before the next group -->
       {% endfor %}
     {% endif %}
   </article>

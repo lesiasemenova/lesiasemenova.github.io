@@ -4,13 +4,13 @@ inline: true
 related_posts: false
 ---
 
-Thank you for your interest in my research group! 
+Thank you for your interest in my research group!
 
 <p class="important-announcement">Prospective Ph.D. Students</p> 
- I am currently looking for motivated students. Please apply through the [Rutgers Ph.D. Program in Computer Science](https://www.cs.rutgers.edu/academics/graduate/prospective-students/) and mention my name in your application. The Ph.D. application deadline for students starting in Fall 2025 is January 1, 2025. Feel free to email me with a brief description of your research interests and experience. Be sure to include your CV and transcript, and add “Prospective Ph.D. Student” to the subject line. 
+ I am currently looking for motivated students. Please apply through the [Rutgers Ph.D. Program in Computer Science](https://www.cs.rutgers.edu/academics/graduate/prospective-students/) and mention my name in your application. The Ph.D. application deadline for students starting in Fall 2025 is January 1, 2025. Feel free to email me with a brief description of your research interests and experience. Be sure to include your CV and transcript, and add “Prospective Ph.D. Student” to the subject line.
 
 <p class="important-announcement">Rutgers Undergraduate or Graduate Students</p> 
- Please visit the [Research page]({{ site.baseurl }}/research/) to learn more about my projects.  If you are interested in collaborating, send me an email describing your background and what you would like to work on. Include your CV and transcript, indicate how much time you can dedicate to the project, and add “Rutgers Student Collaborator” to the email subject line. 
+ Please visit the [Research page]({{ site.baseurl }}/research/) to learn more about my projects.  If you are interested in collaborating, send me an email describing your background and what you would like to work on. Include your CV and transcript, indicate how much time you can dedicate to the project, and add “Rutgers Student Collaborator” to the email subject line.
 
 <p class="important-announcement">Visiting Student Researchers or Interns</p> 
 We have various projects that would benefit from collaboration with interns or visiting students who have a strong background in machine learning, Python programming, and/or optimization, machine learning theory, deep learning, or human-computer interaction. If you are interested in working together, send me a brief email outlining your research interests and experience. Include your CV, a note on how much time you can dedicate to the project, and add “Visiting Researcher/Intern” to the email subject line. I might have a limited bandwidth, but I will try my best to reply to your message.

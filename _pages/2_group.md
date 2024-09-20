@@ -14,25 +14,25 @@ groups:
         image: group/harry_chen.jpg
         image_circular: true
         url: https://www.linkedin.com/in/harry-chen/
-        
+
       - name: Zack Boner
         affiliation: PhD student @ Duke
         image: group/zack_boner.jpg
         image_circular: true
         url: https://www.linkedin.com/in/zachery-boner/
-        
+
       - name: Dennis Tang
         affiliation: BS student @ Duke
         image: group/dennis_tang.jpg
         image_circular: true
-        url: ""  # Add a URL if available
-      
+        url: "" # Add a URL if available
+
       - name: Chloe Zhu
         affiliation: BS student @ Duke -> PhD student @ Duke
         image: group/chloe_zhu.jpeg
         image_circular: true
         url: https://www.linkedin.com/in/chloe-qinyu-zhu/
-        
+
       - name: Muhang (Tony) Tian
         affiliation: BS student @ Duke -> PhD student @ Columbia
         image: group/tony_tian.png
@@ -48,7 +48,7 @@ groups:
         url: https://www.linkedin.com/in/flora-shi-46976417b/
 ---
 
-<!-- <p class="important-announcement">Close Collaborators</p> 
+<!-- <p class="important-announcement">Close Collaborators</p>
 
 <table class="imgtable">
   <tr>
