@@ -24,10 +24,9 @@ nav_order: 5
     }
 
     .flash-card img {
-        border-radius: 50%;
-        max-width: 150px; /* Ensure images are responsive */
-        width: 100%; /* Allow image to shrink */
-        height: auto; /* Maintain aspect ratio */
+        border-radius: 50%; /* Keep images round */
+        width: 150px; /* Set a fixed size for larger screens */
+        height: 150px; /* Ensure height matches width for round shape */
         object-fit: cover;
         margin: 0 10px; /* Space between images */
         transition: transform 0.3s; /* Animation on hover */
@@ -61,7 +60,8 @@ nav_order: 5
     /* Media query for responsive adjustments */
     @media (max-width: 600px) {
         .flash-card img {
-            max-width: 100px; /* Smaller size for mobile */
+            width: 100px; /* Smaller size for mobile, maintain round shape */
+            height: 100px; /* Ensure height matches width for round shape */
         }
         .donation-container, .flash-container {
             padding: 15px; /* Adjust padding for smaller screens */
