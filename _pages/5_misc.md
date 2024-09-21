@@ -14,11 +14,6 @@ nav_order: 5
         padding: 20px; /* Padding around the content */
         text-align: center; /* Center text inside the block */
         margin-top: 20px; /* Space above the block */
-        transition: transform 0.3s; /* Smooth hover effect */
-    }
-
-    .flash-container:hover {
-        transform: scale(1.02); /* Slightly enlarge on hover */
     }
 
     .flash-card {
@@ -30,8 +25,9 @@ nav_order: 5
 
     .flash-card img {
         border-radius: 50%;
-        width: 150px; /* Reduced size */
-        height: 150px; /* Reduced size */
+        max-width: 150px; /* Ensure images are responsive */
+        width: 100%; /* Allow image to shrink */
+        height: auto; /* Maintain aspect ratio */
         object-fit: cover;
         margin: 0 10px; /* Space between images */
         transition: transform 0.3s; /* Animation on hover */
@@ -48,11 +44,6 @@ nav_order: 5
         padding: 20px; /* Padding around the content */
         text-align: center; /* Center text inside the block */
         margin-top: 20px; /* Space above the block */
-        transition: transform 0.3s; /* Smooth hover effect */
-    }
-
-    .donation-container:hover {
-        transform: scale(1.02); /* Slightly enlarge on hover */
     }
 
     .donation-list {
@@ -65,6 +56,16 @@ nav_order: 5
 
     .donation-list li {
         margin: 0 15px; /* Space between items */
+    }
+
+    /* Media query for responsive adjustments */
+    @media (max-width: 600px) {
+        .flash-card img {
+            max-width: 100px; /* Smaller size for mobile */
+        }
+        .donation-container, .flash-container {
+            padding: 15px; /* Adjust padding for smaller screens */
+        }
     }
 </style>
 
