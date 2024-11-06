@@ -29,6 +29,9 @@ groups:
         image_circular: true
         url: "" # Add a URL if available
 
+
+  - name: Alumni
+    profiles:
       - name: Chloe Zhu
         affiliation: BS student @ Duke -> PhD student @ Duke
         image: group/chloe_zhu.jpeg
@@ -40,9 +43,7 @@ groups:
         image: group/tony_tian.png
         image_circular: true
         url: https://scholar.google.com/citations?user=sdzH93QAAAAJ&hl=en
-
-  - name: Alumni
-    profiles:
+        
       - name: Flora Shi
         affiliation: BS student @ Duke -> PhD student @ MIT
         image: group/flora_shi.jpeg
