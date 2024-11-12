@@ -12,7 +12,7 @@ profile:
     <p>Postdoctoral Researcher at <a href = 'https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/'>Microsoft Research </a><br>
     Upcoming Assistant Professor at <a href = 'https://www.cs.rutgers.edu/'>Rutgers University </a><br>
     New York, NY<br>
-    E-mail: lsemenova [at] microsoft.com</p>
+    E-mail: lesia.semenova [at] rutgers.edu</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
