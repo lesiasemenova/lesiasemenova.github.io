@@ -33,19 +33,19 @@ groups:
   - name: Alumni
     profiles:
       - name: Chloe Zhu
-        affiliation: BS student @ Duke -> PhD student @ Duke
+        affiliation: Former BS student @ Duke -> PhD student @ Duke
         image: group/chloe_zhu.jpeg
         image_circular: true
         url: https://www.linkedin.com/in/chloe-qinyu-zhu/
 
       - name: Muhang (Tony) Tian
-        affiliation: BS student @ Duke -> PhD student @ Columbia
+        affiliation: Former BS student @ Duke -> PhD student @ Columbia
         image: group/tony_tian.png
         image_circular: true
         url: https://scholar.google.com/citations?user=sdzH93QAAAAJ&hl=en
         
       - name: Flora Shi
-        affiliation: BS student @ Duke -> PhD student @ MIT
+        affiliation: Former BS student @ Duke -> PhD student @ MIT
         image: group/flora_shi.jpeg
         image_circular: true
         url: https://www.linkedin.com/in/flora-shi-46976417b/
