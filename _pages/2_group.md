@@ -6,7 +6,7 @@ title: group
 nav: true
 nav_order: 3
 
-note: <p>I am currently recruiting students at Rutgers. If you're interested in joining my group, please take a look at <a href="/prospective_students/">this page</a>.</p>
+#note: <p>I am currently recruiting students at Rutgers. If you're interested in joining my group, please take a look at <a href="/prospective_students/">this page</a>.</p>
 
 groups:
   - name: Close Collaborators
