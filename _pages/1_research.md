@@ -81,12 +81,12 @@ publications:
 
   - title: Fast and Interpretable Mortality Risk Scores for Critical Care Patients
     authors: Chloe Qinyu Zhu, Muhang Tian, Lesia Semenova, Jiachang Liu, Jack Xu, Joseph Scarpa, Cynthia Rudin
-    venue: arXiv preprint arXiv:2311.13015
-    year: 2023
+    venue: Journal of the American Medical Informatics Association
+    year: 2025
     pdf_url: https://arxiv.org/pdf/2311.13015
     code_url: https://github.com/MuhangTian/GFR-Experiments
     video_url:
-    bib_file:
+    bib_file: Zhu25.bib
     other:
 
   - title: Impact of Cannabis Use on Immune Cell Populations and the Viral Reservoir in People With HIV on Suppressive Antiretroviral Therapy
