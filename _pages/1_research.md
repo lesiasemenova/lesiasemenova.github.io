@@ -83,7 +83,7 @@ publications:
     authors: Chloe Qinyu Zhu, Muhang Tian, Lesia Semenova, Jiachang Liu, Jack Xu, Joseph Scarpa, Cynthia Rudin
     venue: Journal of the American Medical Informatics Association
     year: 2025
-    pdf_url: https://arxiv.org/pdf/2311.13015
+    pdf_url: https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocae318/7985531?utm_source=authortollfreelink&utm_campaign=jamia&utm_medium=email&guestAccessKey=f55f4ee9-adb8-4d0e-9588-c5c40858c4f8
     code_url: https://github.com/MuhangTian/GFR-Experiments
     video_url:
     bib_file: Zhu25.bib
@@ -138,6 +138,16 @@ publications:
     video_url:
     bib_file: Baig21.bib
     other: oral, won <a href = "https://www.kaggle.com/c/3c-shared-task-purpose-v2/leaderboard">third place</a> in the 3C Shared Task Competition
+
+  - title: NF-κB dependent gene expression and plasma IL-1β, TNFα and GCSF drive transcriptomic diversity and CD4:CD8 ratio in people with HIV on ART
+    authors: Yingfan Wang, German G. Gornalusse, David A. Siegel, Alton Barbehenn, Rebecca Hoh, Jeffrey Martin, Frederick Hecht, Christopher Pilcher, Lesia Semenova, David M Murdoch, David M Margolis, Claire N. Levy, Keith R. Jerome, Cynthia D Rudin, Florian Hladik, Steven G. Deeks, Sulggi A. Lee, Edward P Browne
+    venue: bioRxiv
+    year: 2025
+    pdf_url: https://www.biorxiv.org/content/early/2025/02/14/2025.02.14.638232.full.pdf
+    code_url:
+    video_url:
+    bib_file: 
+    other: 
 ---
 
 <!-- ---
