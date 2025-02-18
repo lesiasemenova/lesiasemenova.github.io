@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congratulations to Harry Chen for being selected as a finalist for the 2024-2025 Outstanding Undergraduate Researcher Award from the Computing Research Association!
+Congratulations to Harry Chen for being selected as a finalist for the [2024-2025 Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/) from the Computing Research Association!
