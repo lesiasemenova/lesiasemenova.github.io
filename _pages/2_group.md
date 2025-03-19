@@ -29,6 +29,24 @@ groups:
         image_circular: true
         url: "" # Add a URL if available
 
+      - name: Ethan Hsu
+        affiliation: BS student @ Duke
+        image: group/missing.avif
+        image_circular: true
+        url: https://www.linkedin.com/in/ethsu00/ # Add a URL if available
+
+      - name: Tony Cao
+        affiliation: BS student @ Duke
+        image: group/tony_cao.jpeg
+        image_circular: true
+        url: https://www.linkedin.com/in/tonycao7 # Add a URL if available
+        
+      - name: Shihan Feng
+        affiliation: Master student @ Duke
+        image: group/missing.avif
+        image_circular: true
+        url: "" # Add a URL if available
+
       - name: Bohdan Turbal
         affiliation: BS student @ Taras Shevchenko National University of Kyiv 
         image: group/bohdan_turbal.jpeg
