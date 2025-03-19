@@ -29,6 +29,18 @@ groups:
         image_circular: true
         url: "" # Add a URL if available
 
+      - name: Bohdan Turbal
+        affiliation: BS student @ Taras Shevchenko National University of Kyiv 
+        image: group/bohdan_turbal.jpeg
+        image_circular: true
+        url: https://ua.linkedin.com/in/bogdan-turbal-964a35222 # Add a URL if available
+
+      - name: Iryna Voitsitska
+        affiliation: BS student @ Ukrainian Catholic University 
+        image: group/iryna_voitsitska.png
+        image_circular: true
+        url: https://ua.linkedin.com/in/bogdan-turbal-964a35222 # Add a URL if available
+
 
   - name: Alumni
     profiles:
