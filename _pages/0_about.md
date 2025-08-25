@@ -9,9 +9,9 @@ profile:
   image: lesia_semenova.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Postdoctoral Researcher at <a href = 'https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/'>Microsoft Research </a><br>
-    Upcoming Assistant Professor at <a href = 'https://www.cs.rutgers.edu/'>Rutgers University </a><br>
-    New York, NY<br>
+    <p><br>
+    Assistant Professor at <a href = 'https://www.cs.rutgers.edu/'>Rutgers University </a><br>
+    New York Metropolitan Area<br>
     E-mail: lesia.semenova [at] rutgers.edu</p>
 
 news: true # includes a list of news items
