@@ -28,6 +28,9 @@ layout: page
               {% if publication.other %}
                 <span style="font-style: italic; color: var(--global-divider-color); margin-left: 10px;">{{ publication.other }}</span>
               {% endif %}
+              {% if publication.workshop %}
+                {{ publication.workshop }}
+              {% endif %}
               <div class="links" style="display: flex; align-items: center;">
                 {% if publication.pdf_url %}
                   <a href="{{ publication.pdf_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:10px;">PDF</a>
