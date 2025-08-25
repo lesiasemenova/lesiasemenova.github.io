@@ -147,7 +147,8 @@ publications:
     code_url:
     video_url:
     bib_file: parikh2025navigating.bib
-    other: won 2022	American Statistical Association	Data Challenge Expo	Student	Competition. A <a href = "https://openreview.net/pdf?id=ZNUcipRpUck">workshop version</a> appeared at NeurIPS 2022 Workshop on Causality for Real-world Impact
+    other: won 2022	American Statistical Association	Data Challenge Expo	Student	Competition.
+    A <a href = "https://openreview.net/pdf?id=ZNUcipRpUck">workshop version</a> appeared at NeurIPS 2022 Workshop on Causality for Real-world Impact
 
 
 ---
