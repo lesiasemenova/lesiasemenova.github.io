@@ -9,20 +9,14 @@ nav_order: 3
 #note: <p>I am currently recruiting students at Rutgers. If you're interested in joining my group, please take a look at <a href="/prospective_students/">this page</a>.</p>
 
 groups:
-  - name: Close Collaborators
+  - name: Group
     profiles:
-      - name: Harry Chen
-        affiliation: BS student @ Duke
-        image: group/harry_chen.jpg
+     - name: Michael Xi
+        affiliation: PhD student @ Rutgers
+        image: group/missing.avif
         image_circular: true
-        url: https://www.linkedin.com/in/harry-chen/
-
-      - name: Zack Boner
-        affiliation: PhD student @ Duke
-        image: group/zack_boner.jpg
-        image_circular: true
-        url: https://www.linkedin.com/in/zachery-boner/
-
+        url: https://www.linkedin.com/in/michael-xi-8b5b8016
+       
       - name: Ethan Hsu
         affiliation: BS student @ Duke
         image: group/missing.avif
@@ -52,6 +46,20 @@ groups:
         image: group/iryna_voitsitska.png
         image_circular: true
         url: https://ua.linkedin.com/in/bogdan-turbal-964a35222 # Add a URL if available
+    
+  - name: Close Collaborators
+    profiles:
+      - name: Harry Chen
+        affiliation: BS student @ Duke
+        image: group/harry_chen.jpg
+        image_circular: true
+        url: https://www.linkedin.com/in/harry-chen/
+
+      - name: Zack Boner
+        affiliation: PhD student @ Duke
+        image: group/zack_boner.jpg
+        image_circular: true
+        url: https://www.linkedin.com/in/zachery-boner/
 
 
   - name: Alumni
