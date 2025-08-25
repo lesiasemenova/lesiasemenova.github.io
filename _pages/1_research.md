@@ -146,8 +146,19 @@ publications:
     pdf_url: https://www.biorxiv.org/content/early/2025/02/14/2025.02.14.638232.full.pdf
     code_url:
     video_url:
-    bib_file: 
-    other: 
+    bib_file: wang2025nf
+    other:
+
+  - title: Navigating Progress: Enhancing Public Transit for More Equitable Communities via Interpretable Causal Inference
+    authors: Gaurav Rajesh Parikh, Jenny Huang, Albert Sun, Lesia Semenova, Cynthia Rudin
+    venue: Harvard Data Science Review
+    year: 2025
+    pdf_url: https://hdsr.mitpress.mit.edu/pub/9zgh9isd/release/1
+    code_url:
+    video_url:
+    bib_file: parikh2025navigating
+    other: won 2022	American Statistical Association	Data Challenge Expo	Student	Competition. A <a href = "[https://www.kaggle.com/c/3c-shared-task-purpose-v2/leaderboard](https://openreview.net/pdf?id=ZNUcipRpUck)">workshop version</a> appeared at NeurIPS 2022 Workshop on Causality for Real-world Impact 
+
 ---
 
 <!-- ---
