@@ -11,7 +11,7 @@ nav_order: 3
 groups:
   - name: Group
     profiles:
-     - name: Michael Xi
+      - name: Michael Xi
         affiliation: PhD student @ Rutgers
         image: group/missing.avif
         image_circular: true
