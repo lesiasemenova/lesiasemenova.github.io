@@ -109,16 +109,6 @@ publications:
     bib_file: SemenovaRuPa2022.bib
     other:
 
-  - title: "Moving towards a more equal world, one ride at a time: Studying Public Transportation Initiatives using interpretable causal inference"
-    authors: Gaurav Rajesh Parikh, Albert Sun, Jenny Huang, Lesia Semenova, Cynthia Rudin
-    venue: NeurIPS 2022 Workshop on Causality for Real-world Impact
-    year: 2022
-    pdf_url: https://openreview.net/pdf?id=ZNUcipRpUck
-    code_url:
-    video_url:
-    bib_file: Parikh22.bib
-    other: won 2022	American Statistical Association	Data Challenge Expo	Student	Competition
-
   - title: "Interpretable machine learning: Fundamental principles and 10 grand challenges"
     authors: Cynthia Rudin, Chaofan Chen, Zhi Chen, Haiyang Huang, Lesia Semenova, Chudi Zhong
     venue: Statistics Surveys
@@ -157,7 +147,8 @@ publications:
     code_url:
     video_url:
     bib_file: parikh2025navigating.bib
-    other: won 2022	American Statistical Association	Data Challenge Expo	Student	Competition. A <a href = "[https://www.kaggle.com/c/3c-shared-task-purpose-v2/leaderboard](https://openreview.net/pdf?id=ZNUcipRpUck)">workshop version</a> appeared at NeurIPS 2022 Workshop on Causality for Real-world Impact 
+    other: won 2022	American Statistical Association	Data Challenge Expo	Student	Competition. A <a href = "[https://www.kaggle.com/c/3c-shared-task-purpose-v2/leaderboard](https://openreview.net/pdf?id=ZNUcipRpUck)">workshop version</a> appeared at NeurIPS 2022 Workshop on Causality for Real-world Impact
+
 
 ---
 
