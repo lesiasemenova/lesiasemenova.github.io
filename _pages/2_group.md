@@ -70,7 +70,7 @@ groups:
 
   - name: Alumni
     profiles:
-      - name: Dennis Tang
+      - name: Dennis Tang -> PhD student @ Duke
         affiliation: BS student @ Duke
         image: group/dennis_tang.jpg
         image_circular: true
