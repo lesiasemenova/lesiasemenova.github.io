@@ -161,7 +161,7 @@ groups:
     <td align="left">
       <p>
         <a href="https://scholar.google.com/citations?user=sdzH93QAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Muhang (Tony) Tian</a><br>
-        BS student @ Duke-> PhD student @ Columbia
+        BS student @ Duke-> PhD student @ NYU
       </p>
     </td>
   </tr>
