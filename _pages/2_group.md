@@ -63,7 +63,7 @@ groups:
 
       - name: Ben Laufer
         affiliation: PhD student @ Cornell
-        image: group/ben.jpg
+        image: group/ben.png
         image_circular: true
         url: https://bendlaufer.github.io/
 
