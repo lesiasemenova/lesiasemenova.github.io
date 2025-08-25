@@ -23,12 +23,6 @@ groups:
         image_circular: true
         url: https://www.linkedin.com/in/zachery-boner/
 
-      - name: Dennis Tang
-        affiliation: BS student @ Duke
-        image: group/dennis_tang.jpg
-        image_circular: true
-        url: "" # Add a URL if available
-
       - name: Ethan Hsu
         affiliation: BS student @ Duke
         image: group/missing.avif
@@ -62,6 +56,12 @@ groups:
 
   - name: Alumni
     profiles:
+      - name: Dennis Tang
+        affiliation: BS student @ Duke
+        image: group/dennis_tang.jpg
+        image_circular: true
+        url: "" # Add a URL if available
+        
       - name: Chloe Zhu
         affiliation: Former BS student @ Duke -> PhD student @ Duke
         image: group/chloe_zhu.jpeg
