@@ -61,6 +61,12 @@ groups:
         image_circular: true
         url: https://www.linkedin.com/in/zachery-boner/
 
+      - name: Ben Laufer
+        affiliation: PhD student @ Cornell
+        image: group/ben.jpg
+        image_circular: true
+        url: https://bendlaufer.github.io/
+
 
   - name: Alumni
     profiles:
