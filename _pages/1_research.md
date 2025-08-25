@@ -29,7 +29,7 @@ publications:
     bib_file: RudinEtAlAmazing2024.bib
     other: spotlight
 
-  - title: A path to simpler models starts with noise
+  - title: A Path to Simpler Models Starts with Noise
     authors: Lesia Semenova, Harry Chen, Ronald Parr, Cynthia Rudin
     venue: Advances in Neural Information Processing Systems (NeurIPS)
     year: 2023
@@ -39,7 +39,7 @@ publications:
     bib_file: SemenovaEtAl2023.bib
     other:
 
-  - title: "Sparse density trees and lists: An interpretable alternative to high-dimensional histograms"
+  - title: "Sparse Density Trees and Lists: An Interpretable Alternative to High-dimensional Histograms"
     authors: Siong Thye Goh*, Lesia Semenova*, Cynthia Rudin
     venue: INFORMS Journal on Data Science
     year: 2024
@@ -59,7 +59,7 @@ publications:
     bib_file: Parr24.bib
     other: oral
 
-  - title: Machine learning approaches identify immunologic signatures of total and intact HIV DNA during long-term antiretroviral therapy
+  - title: Machine Learning Approaches Identify Immunologic Signatures of Total and Intact HIV DNA during Long-term Antiretroviral Therapy
     authors: Lesia Semenova, Yingfan Wang, Shane Falcinelli, Nancie Archin, Alicia D Cooper-Volkheimer, David M Margolis, Nilu Goonetilleke, David M Murdoch, Cynthia D Rudin, Edward P Browne
     venue: eLife
     year: 2024
@@ -99,7 +99,7 @@ publications:
     bib_file: Falcinelli2023.bib
     other:
 
-  - title: On the existence of simpler machine learning models
+  - title: On the Existence of Simpler Machine Learning Models
     authors: Lesia Semenova, Cynthia Rudin, Ronald Parr
     venue: Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT)
     year: 2022
@@ -109,7 +109,7 @@ publications:
     bib_file: SemenovaRuPa2022.bib
     other:
 
-  - title: "Interpretable machine learning: Fundamental principles and 10 grand challenges"
+  - title: "Interpretable Machine Learning: Fundamental Principles and 10 Grand Challenges"
     authors: Cynthia Rudin, Chaofan Chen, Zhi Chen, Haiyang Huang, Lesia Semenova, Chudi Zhong
     venue: Statistics Surveys
     year: 2022
@@ -119,7 +119,7 @@ publications:
     bib_file: RudinEtAlAmazing2024.bib
     other:
 
-  - title: Multitask learning for citation purpose classification
+  - title: Multitask Learning for Citation Purpose Classification
     authors: Alex Oesterling, Angikar Ghosal, Haoyang Yu, Rui Xin, Yasa Baig, Lesia Semenova, Cynthia Rudin
     venue: Second Workshop on Scholarly Document Processing at NAACL
     year: 2021
@@ -129,7 +129,7 @@ publications:
     bib_file: Baig21.bib
     other: oral, won <a href = "https://www.kaggle.com/c/3c-shared-task-purpose-v2/leaderboard">third place</a> in the 3C Shared Task Competition
 
-  - title: NF-κB dependent gene expression and plasma IL-1β, TNFα and GCSF drive transcriptomic diversity and CD4:CD8 ratio in people with HIV on ART
+  - title: NF-κB Dependent Gene Expression and Plasma IL-1β, TNFα and GCSF Drive Transcriptomic Diversity and CD4:CD8 Ratio in People with HIV on ART
     authors: Yingfan Wang, German G. Gornalusse, David A. Siegel, Alton Barbehenn, Rebecca Hoh, Jeffrey Martin, Frederick Hecht, Christopher Pilcher, Lesia Semenova, David M Murdoch, David M Margolis, Claire N. Levy, Keith R. Jerome, Cynthia D Rudin, Florian Hladik, Steven G. Deeks, Sulggi A. Lee, Edward P Browne
     venue: bioRxiv
     year: 2025
@@ -139,7 +139,7 @@ publications:
     bib_file: wang2025nf.bib
     other:
 
-  - title: 
+  - title: Navigating Progress: Enhancing Public Transit for More Equitable Communities via Interpretable Causal Inference
     authors: Gaurav Rajesh Parikh, Jenny Huang, Albert Sun, Lesia Semenova, Cynthia Rudin
     venue: Harvard Data Science Review
     year: 2025
