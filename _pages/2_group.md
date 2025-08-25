@@ -36,7 +36,7 @@ groups:
         url: "" # Add a URL if available
 
       - name: Bohdan Turbal
-        affiliation: BS student @ Taras Shevchenko National University of Kyiv 
+        affiliation: BS student @ Taras Shevchenko National University of Kyiv -> PhD student @ Princeton
         image: group/bohdan_turbal.jpeg
         image_circular: true
         url: https://ua.linkedin.com/in/bogdan-turbal-964a35222 # Add a URL if available
@@ -50,7 +50,7 @@ groups:
   - name: Close Collaborators
     profiles:
       - name: Harry Chen
-        affiliation: BS student @ Duke
+        affiliation: BS student @ Duke -> PhD student @ MIT
         image: group/harry_chen.jpg
         image_circular: true
         url: https://www.linkedin.com/in/harry-chen/
