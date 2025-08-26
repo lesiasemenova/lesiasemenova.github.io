@@ -8,6 +8,17 @@ nav_order: 2
 research_interests: I aim to facilitate informed decision-making and empower machine learning practitioners, data scientists and policymakers with the tools needed to learn from data effectively, emphasizing interpretability, robustness, and trustworthiness. My goals are both to provide theoretical foundations that explain common phenomena observed in the data (especially for interpretable ML) and to design practical tools for reliable and trustworthy AI. The applications of my work are typically in high-stakes decision domains such as healthcare, finance, criminal justice, and governance.<br><br> In my recent research, I have established a  theoretical foundation that explains when and why accurate interpretable/simple models exist. To do so, I leveraged the Rashomon effect, which is the phenomenon when multiple models perform equally well, and proposed the first effort in quantifying the Rashomon effect. Turns out that when the measure of the Rashomon effect is large, well-performing simpler models are more likely to exist.
 
 publications:
+  - title: "Navigating Progress: Enhancing Public Transit for More Equitable Communities via Interpretable Causal Inference"
+    authors: Gaurav Rajesh Parikh, Jenny Huang, Albert Sun, Lesia Semenova, Cynthia Rudin
+    venue: Harvard Data Science Review
+    year: 2025
+    pdf_url: https://hdsr.mitpress.mit.edu/pub/9zgh9isd/release/1
+    code_url:
+    video_url:
+    bib_file: parikh2025navigating.bib
+    other: won 2022	American Statistical Association	Data Challenge Expo	Student	Competition.
+    workshop: A <a href = "https://openreview.net/pdf?id=ZNUcipRpUck">workshop version</a> appeared at NeurIPS 2022 Workshop on Causality for Real-world Impact
+    
   - title: Using Noise to Infer Aspects of Simplicity Without Learning
     authors: Zachery Boner*, Harry Chen*,  Lesia Semenova*, Ronald Parr, Cynthia Rudin
     venue: Advances in Neural Information Processing Systems (NeurIPS)
@@ -138,18 +149,6 @@ publications:
     video_url:
     bib_file: wang2025nf.bib
     other:
-
-  - title: "Navigating Progress: Enhancing Public Transit for More Equitable Communities via Interpretable Causal Inference"
-    authors: Gaurav Rajesh Parikh, Jenny Huang, Albert Sun, Lesia Semenova, Cynthia Rudin
-    venue: Harvard Data Science Review
-    year: 2025
-    pdf_url: https://hdsr.mitpress.mit.edu/pub/9zgh9isd/release/1
-    code_url:
-    video_url:
-    bib_file: parikh2025navigating.bib
-    other: won 2022	American Statistical Association	Data Challenge Expo	Student	Competition.
-    workshop: A <a href = "https://openreview.net/pdf?id=ZNUcipRpUck">workshop version</a> appeared at NeurIPS 2022 Workshop on Causality for Real-world Impact
-
 
 ---
 
