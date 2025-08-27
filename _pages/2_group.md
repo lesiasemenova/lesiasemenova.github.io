@@ -70,8 +70,8 @@ groups:
 
   - name: Alumni
     profiles:
-      - name: Dennis Tang -> PhD student @ Duke
-        affiliation: BS student @ Duke
+      - name: Dennis Tang 
+        affiliation: BS student @ Duke -> PhD student @ Duke
         image: group/dennis_tang.jpg
         image_circular: true
         url: "" # Add a URL if available
@@ -83,7 +83,7 @@ groups:
         url: https://www.linkedin.com/in/chloe-qinyu-zhu/
 
       - name: Muhang (Tony) Tian
-        affiliation: Former BS student @ Duke -> PhD student @ Columbia
+        affiliation: Former BS student @ Duke -> PhD student @ NYU
         image: group/tony_tian.png
         image_circular: true
         url: https://scholar.google.com/citations?user=sdzH93QAAAAJ&hl=en
