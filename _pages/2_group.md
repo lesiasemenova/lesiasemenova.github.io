@@ -18,7 +18,7 @@ groups:
         url: https://www.linkedin.com/in/michael-xi-8b5b8016
        
       - name: Ethan Hsu
-        affiliation: BS student @ Duke
+        affiliation: BS student @ Duke -> Amazon
         image: group/missing.avif
         image_circular: true
         url: https://www.linkedin.com/in/ethsu00/ # Add a URL if available
