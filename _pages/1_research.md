@@ -14,10 +14,10 @@ publications:
     year: 2025
     pdf_url: https://papers.miccai.org/miccai-2025/paper/3200_paper.pdf
     code_url:
-    video_url:
+    video_url: https://nips.cc/virtual/2023/84594
     bib_file: TanDenThisMICCAI2025.bib
     other: 
-    workshop: 
+    workshop: An oral <a href = "https://arxiv.org/pdf/2312.10056">workshop version</a> appeared at Medical Imaging meets NeurIPS Workshop
 
   - title: "Navigating Progress: Enhancing Public Transit for More Equitable Communities via Interpretable Causal Inference"
     authors: Gaurav Rajesh Parikh, Jenny Huang, Albert Sun, Lesia Semenova, Cynthia Rudin
@@ -91,16 +91,6 @@ publications:
     bib_file: SemenovaWang24.bib
     other:
 
-  - title: "ProtoEEGNet: An Interpretable Approach for Detecting Interictal Epileptiform Discharges"
-    authors: Dennis Tang, Frank Willard, Ronan Tegerdine, Luke Triplett, Jon Donnelly, Luke Moffett, Lesia Semenova, Alina Jade Barnett, Jin Jing, Cynthia Rudin, Brandon Westover
-    venue: Medical Imaging meets NeurIPS Workshop
-    year: 2023
-    pdf_url: https://arxiv.org/pdf/2312.10056
-    code_url:
-    video_url: https://nips.cc/virtual/2023/84594
-    bib_file: Tang23.bib
-    other: oral
-
   - title: Fast and Interpretable Mortality Risk Scores for Critical Care Patients
     authors: Chloe Qinyu Zhu, Muhang Tian, Lesia Semenova, Jiachang Liu, Jack Xu, Joseph Scarpa, Cynthia Rudin
     venue: Journal of the American Medical Informatics Association
@@ -173,6 +163,18 @@ publications:
     video_url:
     bib_file: Parikh22.bib
     other: won 2022	American Statistical Association	Data Challenge Expo	Student	Competition
+
+
+  - title: "ProtoEEGNet: An Interpretable Approach for Detecting Interictal Epileptiform Discharges"
+    authors: Dennis Tang, Frank Willard, Ronan Tegerdine, Luke Triplett, Jon Donnelly, Luke Moffett, Lesia Semenova, Alina Jade Barnett, Jin Jing, Cynthia Rudin, Brandon Westover
+    venue: Medical Imaging meets NeurIPS Workshop
+    year: 2023
+    pdf_url: https://arxiv.org/pdf/2312.10056
+    code_url:
+    video_url: https://nips.cc/virtual/2023/84594
+    bib_file: Tang23.bib
+    other: oral
+    
 -->
 
 <!-- ---
