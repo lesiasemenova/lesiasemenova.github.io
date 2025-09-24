@@ -8,6 +8,17 @@ nav_order: 2
 research_interests: I aim to facilitate informed decision-making and empower machine learning practitioners, data scientists and policymakers with the tools needed to learn from data effectively, emphasizing interpretability, robustness, and trustworthiness. My goals are both to provide theoretical foundations that explain common phenomena observed in the data (especially for interpretable ML) and to design practical tools for reliable and trustworthy AI. The applications of my work are typically in high-stakes decision domains such as healthcare, finance, criminal justice, and governance.<br><br> In my recent research, I have established a  theoretical foundation that explains when and why accurate interpretable/simple models exist. To do so, I leveraged the Rashomon effect, which is the phenomenon when multiple models perform equally well, and proposed the first effort in quantifying the Rashomon effect. Turns out that when the measure of the Rashomon effect is large, well-performing simpler models are more likely to exist.
 
 publications:
+  - title: "This EEG Looks Like These EEGs: Interpretable Interictal Epileptiform Discharge Detection With ProtoEEG-kNN"
+    authors: Dennis Tang, Jon Donnelly, Alina Jade Barnett, Lesia Semenova, Jin Jing, Peter Hadar, Ioannis Karakis, Olga Selioutski, Kehan Zhao, M. Brandon Westover, Cynthia Rudin
+    venue: Medical Image Computing and Computer Assisted Intervention (MICCAI) 
+    year: 2025
+    pdf_url: https://papers.miccai.org/miccai-2025/paper/3200_paper.pdf
+    code_url:
+    video_url:
+    bib_file: TanDenThisMICCAI2025.bib
+    other: 
+    workshop: 
+
   - title: "Navigating Progress: Enhancing Public Transit for More Equitable Communities via Interpretable Causal Inference"
     authors: Gaurav Rajesh Parikh, Jenny Huang, Albert Sun, Lesia Semenova, Cynthia Rudin
     venue: Harvard Data Science Review
