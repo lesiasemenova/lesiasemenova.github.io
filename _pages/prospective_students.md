@@ -12,7 +12,7 @@ Thank you for your interest in my research group!
 <p class="important-announcement">Prospective Ph.D. Students</p> 
  I am currently looking for motivated students. Please apply through the [Rutgers Ph.D. Program in Computer Science](https://www.cs.rutgers.edu/academics/graduate/prospective-students/) and mention my name in your application. The Ph.D. application deadline for students starting in Fall 2026 is January 1, 2026. Feel free to send me a short email with a brief description of your research interests and experience. Be sure to include your CV and transcript, and add “Prospective Ph.D. Student” to the subject line. 
  
- <p class="important-announcement">I am especially looking for students to work on the following topics:</p> 
+<p class="important-announcement">I am especially looking for students to work on the following topics:</p> 
 <ul>
 <li> Diversity/Personalization/Uncertainty in LLMs - Developing methods that allow large language models to produce diverse, yet valid, answers. Such diversity is natural in human reasoning and closely tied to personalization (adapting outputs to individual preferences), alignment (reflecting a range of acceptable viewpoints), and uncertainty estimation (understanding where multiple plausible outputs exist). This diversity can arise from different reasoning paths, different internal representations, or different parameter configurations, and connects directly to the Rashomon Effect—the existence of many equally good but behaviorally different solutions.
 
@@ -23,11 +23,10 @@ Thank you for your interest in my research group!
 <li> Interpretable Model Design and Theory-Driven ML - Designing interpretable machine learning algorithms and studying practical ML phenomena from a theoretical perspective. This includes understanding when simple or structured models can match the performance of more complex systems, and developing sparse methods tailored to high-dimensional biomedical or clinical data. This line of work builds on my prior research on the Rashomon Effect and interpretable ML and you can read my publications for more details on these topics.
 </ul>
 
- 
- <p class="important-announcement">Rutgers Undergraduate or Graduate Students</p> 
- Please visit the [Research page]({{ site.baseurl }}/research/) to learn more about my projects.  If you are interested in collaborating, send me an email describing your background and what you would like to work on. Include your CV and transcript, indicate how much time you can dedicate to the project, and add “Rutgers Student Collaborator” to the email subject line.
+<p class="important-announcement">Rutgers Undergraduate or Graduate Students</p> 
+Please visit the [Research page]({{ site.baseurl }}/research/) to learn more about my projects.  If you are interested in collaborating, send me an email describing your background and what you would like to work on. Include your CV and transcript, indicate how much time you can dedicate to the project, and add “Rutgers Student Collaborator” to the email subject line.
 
- <p class="important-announcement">Visiting Student Researchers or Interns</p> 
+<p class="important-announcement">Visiting Student Researchers or Interns</p> 
 We have various projects that would benefit from collaboration with interns or visiting students who have a strong background in machine learning, Python programming, and/or optimization, machine learning theory, human-computer interaction, mechanistic interpretability, or foundation models. If you are interested in working together, send me a brief email outlining your research interests and experience. Include your CV, a note on how much time you can dedicate to the project, and add “Visiting Researcher/Intern” to the email subject line. I may have limited bandwidth, but I will do my best to reply to your message.
 
 <!--<p class="important-announcement">Some of the topics that we are currently working on or plan to work on include:</p> 
