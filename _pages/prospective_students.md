@@ -41,7 +41,6 @@ We have various projects that would benefit from collaboration with interns or v
 <li>Interpretability in reinforcement learning</li>
 <li>Applications of machine learning in high-stakes decision domains (such as healthcare, finance, criminal justice, and governance), focusing on responsible AI/ML</li>
 </ul>
-
  in Python, and/or expertise in at least one of the following areas: optimization, machine learning theory, deep learning, AI for healthcare, data science, or human-computer interaction
 <p class="important-announcement"> Rutgers Students</p>
  If you are currently an undergraduate or graduate student at Rutgers, I would be more than happy to chat with you about research. Please take a look at the [Research page]({{ site.baseurl }}/research/), skim through the papers or paper abstracts that you find interesting, and send me a brief note. Include your CV and transcript in the email, and use the email subject line “[Rutgers Collaboration] your name.” -->
