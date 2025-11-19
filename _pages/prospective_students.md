@@ -21,7 +21,7 @@ Thank you for your interest in my research group!
 
 <li> Stability in LLMs and Foundation Models - Examining how sensitive LLMs are to small changes in prompts, data, fine-tuning, or random seeds. Even models with identical performance can vary internally across training runs. My goal is to identify which aspects of model behavior are stable and reproducible, and which ones vary across alternative solutions, a perspective that aligns naturally with the Rashomon Effect.
 
-<li> Interpretable Model Design and Theory-Driven ML - Designing interpretable machine learning algorithms and studying practical ML phenomena from a theoretical perspective. This includes understanding when simple or structured models can match the performance of more complex systems, and developing sparse methods tailored to high-dimensional biomedical or clinical data. This line of work builds on my prior research on the Rashomon Effect and interpretable ML and you can read my publications for more details on these topics.
+<li> Interpretable ML and Theory-Driven ML - Designing interpretable machine learning algorithms and studying practical ML phenomena from a theoretical perspective. This includes understanding when simple models can match the performance of black-box systems, and developing interpretable methods for high-stakes domains such as medical and financial data. This line of work builds on my prior research on the Rashomon Effect and interpretable ML, and you can read my publications for more details on these topics.
 </ul>
 
 <p class="important-announcement">Rutgers Undergraduate or Graduate Students</p> 
