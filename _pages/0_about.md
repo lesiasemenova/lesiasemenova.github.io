@@ -28,7 +28,7 @@ I am a computer scientist currently working as an Assistant Professor in the Dep
 
 Before joining Duke, I worked for two years on the Augmented Reality team at the Samsung Research and Development Institute in Ukraine. I received both my M.S. and B.S. in Applied Mathematics from Taras Shevchenko National University of Kyiv, Department of Computer Science and Cybernetics. I was selected as one of the 2024 Rising Stars in Computational and Data Sciences and received an Outstanding Thesis Award from Duke University.
 
-<!--<p class="important-announcement">  I am currently recruiting students at Rutgers. If you're interested in collaborating or joining my group, please take a look at <a href="/prospective_students/">this page</a>.</p>-->
+<p class="important-announcement">  I am currently recruiting students at Rutgers. If you're interested in collaborating or joining my group, please take a look at <a href="/prospective_students/">this page</a>.</p>
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
