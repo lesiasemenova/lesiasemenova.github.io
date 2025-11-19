@@ -24,10 +24,10 @@ Thank you for your interest in my research group!
 </ul>
 
  
-<p class="important-announcement">Rutgers Undergraduate or Graduate Students</p> 
+ <p class="important-announcement">Rutgers Undergraduate or Graduate Students</p> 
  Please visit the [Research page]({{ site.baseurl }}/research/) to learn more about my projects.  If you are interested in collaborating, send me an email describing your background and what you would like to work on. Include your CV and transcript, indicate how much time you can dedicate to the project, and add “Rutgers Student Collaborator” to the email subject line.
 
-<p class="important-announcement">Visiting Student Researchers or Interns</p> 
+ <p class="important-announcement">Visiting Student Researchers or Interns</p> 
 We have various projects that would benefit from collaboration with interns or visiting students who have a strong background in machine learning, Python programming, and/or optimization, machine learning theory, human-computer interaction, mechanistic interpretability, or foundation models. If you are interested in working together, send me a brief email outlining your research interests and experience. Include your CV, a note on how much time you can dedicate to the project, and add “Visiting Researcher/Intern” to the email subject line. I may have limited bandwidth, but I will do my best to reply to your message.
 
 <!--<p class="important-announcement">Some of the topics that we are currently working on or plan to work on include:</p> 
