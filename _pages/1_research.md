@@ -13,7 +13,7 @@ publications:
     authors: Ethan Hsu, Harry Chen, Chudi Zhong, Lesia Semenova
     venue: arXiv preprint arXiv:2511.21799 
     year: 2025
-    pdf_url: 
+    pdf_url: https://arxiv.org/pdf/2511.21799
     code_url:
     video_url: 
     bib_file: hsu2025double.bib
@@ -24,7 +24,7 @@ publications:
     authors: Shihan Feng, Cheng Zhang, Michael Xi, Ethan Hsu, Lesia Semenova, Chudi Zhong
     venue: arXiv preprint arXiv:2511.19636
     year: 2025
-    pdf_url: 
+    pdf_url: https://arxiv.org/pdf/2511.19636
     code_url:
     video_url: 
     bib_file: feng2025many.bib
@@ -35,9 +35,9 @@ publications:
     authors: Bohdan Turbal, Iryna Voitsitska, Lesia Semenova 
     venue: Advances in Neural Information Processing Systems (NeurIPS)
     year: 2025
-    pdf_url: 
-    code_url:
-    video_url: 
+    pdf_url: https://openreview.net/pdf?id=GNDgQie8W4
+    code_url: https://github.com/BogdanTurbal/ellice
+    video_url: https://neurips.cc/virtual/2025/loc/san-diego/poster/118970
     bib_file: turbal2025.bib
     other: spotlight
     workshop:
@@ -46,8 +46,8 @@ publications:
     authors: Ethan Hsu, Tony Cao, Lesia Semenova, Chudi Zhong
     venue: Advances in Neural Information Processing Systems (NeurIPS)
     year: 2025
-    pdf_url: 
-    code_url:
+    pdf_url: https://openreview.net/pdf?id=RXsDPn3toF
+    code_url: https://github.com/EtHsu0/rashomon-framework
     video_url: 
     bib_file: Hsu2025.bib
     other: 
