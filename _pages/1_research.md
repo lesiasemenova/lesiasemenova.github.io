@@ -8,6 +8,29 @@ nav_order: 2
 research_interests: I aim to facilitate informed decision-making and empower machine learning practitioners, data scientists and policymakers with the tools needed to learn from data effectively, emphasizing interpretability, robustness, and trustworthiness. My goals are both to provide theoretical foundations that explain common phenomena observed in the data (especially for interpretable ML) and to design practical tools for reliable and trustworthy AI. The applications of my work are typically in high-stakes decision domains such as healthcare, finance, criminal justice, and governance.<br><br> In my recent research, I have established a  theoretical foundation that explains when and why accurate interpretable/simple models exist. To do so, I leveraged the Rashomon effect, which is the phenomenon when multiple models perform equally well, and proposed the first effort in quantifying the Rashomon effect. Turns out that when the measure of the Rashomon effect is large, well-performing simpler models are more likely to exist.
 
 publications:
+
+  - title: "The Double-Edged Nature of the Rashomon Set for Trustworthy Machine Learning"
+    authors: Ethan Hsu, Harry Chen, Chudi Zhong, Lesia Semenova
+    venue: arXiv preprint arXiv:2511.21799 
+    year: 2025
+    pdf_url: 
+    code_url:
+    video_url: 
+    bib_file: hsu2025double.bib
+    other: 
+    workshop:
+
+  - title: "Many Ways to be Right: Rashomon Sets for Concept-Based Neural Networks"
+    authors: Shihan Feng, Cheng Zhang, Michael Xi, Ethan Hsu, Lesia Semenova, Chudi Zhong
+    venue: arXiv preprint arXiv:2511.19636
+    year: 2025
+    pdf_url: 
+    code_url:
+    video_url: 
+    bib_file: feng2025many.bib
+    other: 
+    workshop:
+
   - title: "ElliCE: Efficient and Provably Robust Algorithmic Recourse via the Rashomon Sets"
     authors: Bohdan Turbal, Iryna Voitsitska, Lesia Semenova 
     venue: Advances in Neural Information Processing Systems (NeurIPS)
