@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: LESIA_SEMENOVA_sep25.pdf
+cv_pdf: LESIA_SEMENOVA_dec25.pdf
 toc:
   sidebar: left
 ---
