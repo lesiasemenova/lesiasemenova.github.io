@@ -16,17 +16,14 @@ nav_order: 4
 <section>
   <p>
     Machine learning models increasingly shape decisions that affect real people: medical diagnoses, hiring and lending decisions,
-    content moderation, legal risk assessment, and scientific discovery. At the same time, the models we rely on—deep neural networks,
-    foundation models, and large language models—are becoming more complex, less transparent, and harder to reason about.
-  </p>
-
-  <p>
+    content moderation, legal risk assessment, and scientific discovery. At the same time, the models we rely on, including deep neural networks,
+    foundation models, and large language models, are becoming more complex, less transparent, and harder to reason about.
     This tension raises a fundamental question: how can we understand, trust, and responsibly deploy models whose internal logic is
     opaque, fragile, or underspecified?
   </p>
 
   <p>
-    Interpretability and explainability aim to address this question—but the field itself is fragmented. Many widely used explanation
+    Interpretability and explainability aim to address this question. Many widely used explanation
     methods are heuristic, poorly evaluated, or misleading when used outside their intended scope. Explanations can be manipulated,
     disagreed upon, or give a false sense of understanding. Meanwhile, regulatory pressure (e.g., accountability and transparency requirements),
     safety concerns, and the rise of LLMs have made these issues impossible to ignore.
@@ -48,18 +45,18 @@ nav_order: 4
     <li>
       <strong>Multiplicity and underspecification are fundamental, not edge cases.</strong><br/>
       Many distinct models can fit the same data equally well yet behave very differently. Understanding this Rashomon effect is essential
-      for interpretability, fairness, and trustworthiness—especially in modern overparameterized models.
+      for interpretability, fairness, and trustworthiness, especially in modern overparameterized models.
     </li>
   </ol>
 
-  <p><strong>The goal of this course is therefore not to catalog explanation methods, but to develop judgment:</strong></p>
+  <p><strong>The goal of this course is therefore not to catalog intepretability or explanability methods, but to develop judgment:</strong></p>
 
   <ul>
     <li>When should we prefer inherently interpretable models over post-hoc explanations?</li>
-    <li>What do popular methods like SHAP or LIME actually guarantee—and what do they not?</li>
-    <li>How do explanations interact with robustness, fairness, privacy, and recourse?</li>
+    <li>What do popular methods like SHAP or LIME actually guarantee and what do they not?</li>
+    <li>How do explanations interact with robustness, fairness, or privacy?</li>
     <li>What does “understanding” mean for large language models and other generative systems?</li>
-    <li>How should interpretability be evaluated, and for whom?</li>
+    <li>How should understadability be evaluated, and for whom?</li>
   </ul>
 
   <p>
