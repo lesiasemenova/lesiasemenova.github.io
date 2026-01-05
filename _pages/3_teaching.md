@@ -48,7 +48,7 @@ nav_order: 4
     </li>
   </ol>
 
-  <p><strong>The goal of this course is therefore not to catalog intepretability or explanability methods, but to develop judgment:</strong></p>
+  <p><strong>The goal of this course is therefore not to catalog intepretability or explainability methods, but to develop judgment:</strong></p>
 
   <ul>
     <li>When should we prefer inherently interpretable models over post-hoc explanations?</li>
@@ -65,7 +65,7 @@ nav_order: 4
   </p>
 </section>
 
-<strong>Office hours.</strong> After class. I’m usually happy to stay for ~20 minutes after class for quick questions or to discuss project ideas, paper selection, or course logistics. For longer discussions, please follow up by email.
+<strong>Time and room.</strong> Mondays
 
 <strong>Prerequisites.</strong> This is a graduate-level course. Students should be comfortable with basic linear algebra, probability, and core machine learning concepts. You should also be able to implement and debug ML experiments in Python (e.g., NumPy, scikit-learn, and PyTorch), including working with real datasets and writing reasonably organized, reproducible code.
 
