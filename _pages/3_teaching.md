@@ -16,43 +16,44 @@ nav_order: 4
 <section>
   <p>
     Machine learning models increasingly shape decisions that affect real people: medical diagnoses, hiring and lending decisions,
-    content moderation, legal risk assessment, and scientific discovery. At the same time, the models we rely on, including deep neural networks,
-    foundation models, and large language models, are becoming more complex, less transparent, and harder to reason about.
-    This tension raises a fundamental question: how can we understand, trust, and responsibly deploy models whose internal logic is
-    opaque, fragile, or underspecified?
+    content moderation, legal risk assessment, and scientific discovery.
   </p>
 
   <p>
-    Three distinct paradigms have emerged to address this: Interpretable AI, which focuses on designing models that are inherently understandable; Explainable AI (XAI), which seeks to provide post-hoc summaries of complex "black boxes"; and Mechanistic Interpretability, which attempts to reverse-engineer the internal circuits of neural networks. These approaches offer different guarantees and serve different goals. Many widely used explanation
-    methods are heuristic, poorly evaluated, or misleading when used outside their intended scope. Explanations can be manipulated,
-    disagreed upon, or give a false sense of understanding. Meanwhile, regulatory pressure (e.g., accountability and transparency requirements),
-    safety concerns, and the rise of LLMs have made these issues impossible to ignore.
+    At the same time, the models we rely on—including deep neural networks, foundation models, and large language models—are becoming
+    more complex, less transparent, and harder to reason about. This tension raises a fundamental question:
+    <em>how can we understand, trust, and responsibly deploy models whose internal logic is opaque, fragile, or underspecified?</em>
   </p>
 
-  <p><strong>This course is motivated by three observations:</strong></p>
+  <p>
+    Three distinct paradigms have emerged in response. <strong>Interpretable AI</strong> focuses on designing models that are inherently
+    understandable; <strong>Explainable AI (XAI)</strong> seeks to provide post-hoc summaries of complex “black-box” models; and
+    <strong>Mechanistic Interpretability</strong> attempts to reverse-engineer the internal circuits of neural networks.
+    These approaches offer different guarantees and serve different goals.
+  </p>
 
-  <ol>
-    <li>
-      <strong>Accuracy alone is no longer sufficient.</strong><br/>
-      In many applications, we need to debug models, detect spurious correlations, ensure robustness, justify decisions, and reason about
-      failures—not just optimize performance metrics.
-    </li>
-    <li>
-      <strong>Not all explanations are created equal.</strong><br/>
-      Different stakeholders (developers, domain experts, decision subjects, regulators) require different kinds of understanding. A method useful for user-facing transparency may be fundamentally different from mechanistic approaches used by researchers to reverse-engineer a model’s internal logic.
-    </li>
-    <li>
-      <strong>Multiplicity and underspecification are fundamental, not edge cases.</strong><br/>
-      Many distinct models can fit the same data equally well yet behave very differently. Understanding this Rashomon effect is essential
-      for interpretability, fairness, and trustworthiness, especially in modern overparameterized models.
-    </li>
-  </ol>
+  <p>
+    At the same time, many widely used explanation methods are heuristic, poorly evaluated, or misleading when used outside their
+    intended scope. Explanations can be manipulated, disagreed upon, or give a false sense of understanding. Meanwhile, regulatory
+    pressure (e.g., accountability and transparency requirements), safety concerns, and the rapid adoption of LLMs have made these
+    issues impossible to ignore.
+  </p>
 
-  <p><strong>The goal of this course is therefore not to catalog interpretability or explainability methods, but to develop judgment:</strong></p>
+  <p>
+    This course is motivated by three observations: (i) accuracy alone is no longer sufficient; (ii) not all explanations are created
+    equal; and (iii) many distinct models can fit the same data equally well yet behave very differently. Understanding these effects
+    (often referred to as the <em>Rashomon effect</em>) is essential for building trustworthy machine learning systems, especially in
+    modern overparameterized models.
+  </p>
+
+  <p>
+    <strong>The goal of this course is therefore not merely to introduce a collection of interpretability and explainability methods,
+    but to develop judgment:</strong>
+  </p>
 
   <ul>
     <li>When should we prefer inherently interpretable models over post-hoc explanations?</li>
-    <li>What do popular methods like SHAP or LIME actually guarantee and what do they not?</li>
+    <li>What do popular methods like SHAP or LIME actually guarantee, and what do they not?</li>
     <li>How do explanations interact with robustness, fairness, or privacy?</li>
     <li>How do we move from treating models as black boxes toward mechanistic interpretability and circuit-level understanding?</li>
     <li>What does “understanding” mean for large language models and other generative systems?</li>
@@ -60,17 +61,18 @@ nav_order: 4
   </ul>
 
   <p>
-    By the end of the course, students should be able to critically assess interpretability claims, choose appropriate methods for a given
-    context, and reason clearly about the limits of explanation in modern AI systems.
+    By the end of the course, students should be able to critically assess interpretability claims, choose appropriate methods for a
+    given context, and reason clearly about the limits of explanation in modern AI systems.
   </p>
 </section>
 
-<strong>Time and room.</strong> Mondays
+<p><strong>Time and room.</strong> Mondays 12:10–3:10 pm, Busch Campus.</p>
 
-<strong>Prerequisites.</strong> This is a graduate-level course. Students should be comfortable with basic linear algebra, probability, and core machine learning concepts. You should also be able to implement and debug ML experiments in Python (e.g., NumPy, scikit-learn, and PyTorch), including working with real datasets and writing reasonably organized, reproducible code.
-
-
-
+<p>
+  <strong>Prerequisites.</strong> This is a graduate-level course. Students should be comfortable with basic linear algebra,
+  probability, and core machine learning concepts. You should also be able to implement and debug ML experiments in Python
+  (e.g., NumPy, scikit-learn, and PyTorch), including working with real datasets and writing reasonably organized, reproducible code.
+</p>
 
 
 <!--I have formal pedagogical training in college teaching from Duke Graduate School.
