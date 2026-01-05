@@ -65,7 +65,7 @@ nav_order: 4
 </p>
 
 <p>
- <strong>Workload.</strong> The class workload will consist of two main components: (1) in-class paper discussions with student-led presentations, and (2) a semester-long course project completed individually or in a team of two. The primary deliverable for the course project is a sequence of in-class presentations: a project proposal, a mid-project review, and a final presentation. These presentations (slides + discussion) serve as the main “report” of the project. Teams may optionally submit a longer written report (PDF) with additional technical details, experiments, or analysis.
+ <strong>Workload.</strong> The class workload will consist of two main components: (1) in-class paper discussions with student-led presentations, and (2) a semester-long course project completed individually or in a small team. The primary deliverable for the course project is a sequence of in-class presentations: a project proposal, a mid-project review, and a final presentation. These presentations (slides + discussion) serve as the main “report” of the project. Teams may optionally submit a longer written report (PDF) with additional technical details, experiments, or analysis.
 </p>
 
  <strong>Schedule.</strong> The schedule below is tentative. Topics, readings, and ordering may be adjusted during the semester based on class interests, guest lectures, and pacing.
