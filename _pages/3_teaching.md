@@ -83,8 +83,8 @@ nav_order: 4
     <tr>
       <td style="padding:0.6rem;">1</td>
       <td style="padding:0.6rem;">January 26</td>
-      <td style="padding:0.6rem;">Introduction</td>
-      <td style="padding:0.6rem;">Syllabus overview; introduction to interpretability and explainability (remote)</td>
+      <td style="padding:0.6rem;">Introduction (remote)</td>
+      <td style="padding:0.6rem;">Syllabus overview, introduction to interpretability and explainability</td>
     </tr>
 
     <tr>
@@ -186,10 +186,6 @@ nav_order: 4
     </tr>
   </tbody>
 </table>
-
-<p style="margin-top:0.75rem; font-size:0.95rem; opacity:0.85;">
-  Topics and ordering are tentative and may be adjusted during the semester based on class interests, guest lectures, and pacing.
-</p>
 
 
   <!--<p>
