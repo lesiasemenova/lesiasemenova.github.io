@@ -39,8 +39,7 @@ nav_order: 4
     </li>
     <li>
       <strong>Not all explanations are created equal.</strong><br/>
-      Different stakeholders (developers, domain experts, decision subjects, regulators) require different kinds of understanding. A method
-      that is useful for model debugging may be harmful or meaningless for user-facing explanations.
+      Different stakeholders (developers, domain experts, decision subjects, regulators) require different kinds of understanding. A method useful for user-facing transparency may be fundamentally different from mechanistic approaches used by researchers to reverse-engineer a model’s internal logic.
     </li>
     <li>
       <strong>Multiplicity and underspecification are fundamental, not edge cases.</strong><br/>
@@ -55,6 +54,7 @@ nav_order: 4
     <li>When should we prefer inherently interpretable models over post-hoc explanations?</li>
     <li>What do popular methods like SHAP or LIME actually guarantee and what do they not?</li>
     <li>How do explanations interact with robustness, fairness, or privacy?</li>
+    <li>How do we move from treating models as black boxes toward mechanistic interpretability and circuit-level understanding?</li>
     <li>What does “understanding” mean for large language models and other generative systems?</li>
     <li>How should understadability be evaluated, and for whom?</li>
   </ul>
