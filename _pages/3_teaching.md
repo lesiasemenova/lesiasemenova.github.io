@@ -48,7 +48,7 @@ nav_order: 4
     </li>
   </ol>
 
-  <p><strong>The goal of this course is therefore not to catalog intepretability or explainability methods, but to develop judgment:</strong></p>
+  <p><strong>The goal of this course is therefore not to catalog interpretability or explainability methods, but to develop judgment:</strong></p>
 
   <ul>
     <li>When should we prefer inherently interpretable models over post-hoc explanations?</li>
@@ -56,7 +56,7 @@ nav_order: 4
     <li>How do explanations interact with robustness, fairness, or privacy?</li>
     <li>How do we move from treating models as black boxes toward mechanistic interpretability and circuit-level understanding?</li>
     <li>What does “understanding” mean for large language models and other generative systems?</li>
-    <li>How should understadability be evaluated, and for whom?</li>
+    <li>How should understandability be evaluated, and for whom?</li>
   </ul>
 
   <p>
