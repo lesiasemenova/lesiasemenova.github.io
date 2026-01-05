@@ -23,7 +23,7 @@ nav_order: 4
   </p>
 
   <p>
-    Interpretability and explainability aim to address this question. Many widely used explanation
+    Three distinct paradigms have emerged to address this: Interpretable AI, which focuses on designing models that are inherently understandable; Explainable AI (XAI), which seeks to provide post-hoc summaries of complex "black boxes"; and Mechanistic Interpretability, which attempts to reverse-engineer the internal circuits of neural networks. These approaches offer different guarantees and serve different goals. Many widely used explanation
     methods are heuristic, poorly evaluated, or misleading when used outside their intended scope. Explanations can be manipulated,
     disagreed upon, or give a false sense of understanding. Meanwhile, regulatory pressure (e.g., accountability and transparency requirements),
     safety concerns, and the rise of LLMs have made these issues impossible to ignore.
