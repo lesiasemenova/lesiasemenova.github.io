@@ -68,6 +68,130 @@ nav_order: 4
  <strong>Workload.</strong> The class workload will consist of two main components: (1) in-class paper discussions with student-led presentations, and (2) a semester-long course project completed individually or in a team of two. The primary deliverable for the course project is a sequence of in-class presentations: a project proposal, a mid-project review, and a final presentation. These presentations (slides + discussion) serve as the main “report” of the project. Teams may optionally submit a longer written report (PDF) with additional technical details, experiments, or analysis.
 </p>
 
+ <strong>Schedule.</strong> The schedule below is tentative. Topics, readings, and ordering may be adjusted during the semester based on class interests, guest lectures, and pacing.
+
+ <table style="width:100%; border-collapse:collapse;">
+  <thead>
+    <tr>
+      <th style="border-bottom:1px solid #ccc; padding:0.6rem; text-align:left;">Week</th>
+      <th style="border-bottom:1px solid #ccc; padding:0.6rem; text-align:left;">Date</th>
+      <th style="border-bottom:1px solid #ccc; padding:0.6rem; text-align:left;">Topic</th>
+      <th style="border-bottom:1px solid #ccc; padding:0.6rem; text-align:left;">Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:0.6rem;">1</td>
+      <td style="padding:0.6rem;">January 26</td>
+      <td style="padding:0.6rem;">Introduction</td>
+      <td style="padding:0.6rem;">Syllabus overview; introduction to interpretability and explainability (remote)</td>
+    </tr>
+
+    <tr>
+      <td style="padding:0.6rem;">2</td>
+      <td style="padding:0.6rem;">February 2</td>
+      <td style="padding:0.6rem;">Global understanding and the human in the loop</td>
+      <td style="padding:0.6rem;">Data visualization, feature importance, exploratory analysis; stakeholders, use cases, and failure modes</td>
+    </tr>
+
+    <tr>
+      <td style="padding:0.6rem;">3</td>
+      <td style="padding:0.6rem;">February 9</td>
+      <td style="padding:0.6rem;">Interpretability and explainability landscape &amp; project directions</td>
+      <td style="padding:0.6rem;">Overview of project spaces: interpretable models, post-hoc explanations, counterfactuals and recourse, mechanistic interpretability, large language models, and model multiplicity (Rashomon effect)</td>
+    </tr>
+
+    <tr>
+      <td style="padding:0.6rem;">4</td>
+      <td style="padding:0.6rem;">February 16</td>
+      <td style="padding:0.6rem;">Inherently interpretable models</td>
+      <td style="padding:0.6rem;">Linear models, sparsity, generalized additive models, scoring systems, decision trees, and rule-based models</td>
+    </tr>
+
+    <tr>
+      <td style="padding:0.6rem;">5</td>
+      <td style="padding:0.6rem;">February 23</td>
+      <td style="padding:0.6rem;">Inherently interpretable models &amp; project proposals</td>
+      <td style="padding:0.6rem;">Prototype-based and concept-based approaches; project proposal presentations</td>
+    </tr>
+
+    <tr>
+      <td style="padding:0.6rem;">6</td>
+      <td style="padding:0.6rem;">March 2</td>
+      <td style="padding:0.6rem;">Post-hoc explanations I: feature and data attributions</td>
+      <td style="padding:0.6rem;">What feature attributions approximate; local vs. global explanations; LIME, SHAP, gradient-based methods; assumptions and common misuse</td>
+    </tr>
+
+    <tr>
+      <td style="padding:0.6rem;">7</td>
+      <td style="padding:0.6rem;">March 9</td>
+      <td style="padding:0.6rem;">Post-hoc explanations II: evaluation and pitfalls</td>
+      <td style="padding:0.6rem;">Explanation disagreement, sensitivity to baselines and perturbations, sanity checks, manipulation and robustness</td>
+    </tr>
+
+    <tr>
+      <td style="padding:0.6rem;"></td>
+      <td style="padding:0.6rem;">March 16</td>
+      <td style="padding:0.6rem;">Spring break</td>
+      <td style="padding:0.6rem;">No class</td>
+    </tr>
+
+    <tr>
+      <td style="padding:0.6rem;">8</td>
+      <td style="padding:0.6rem;">March 23</td>
+      <td style="padding:0.6rem;">Counterfactual explanations and algorithmic recourse</td>
+      <td style="padding:0.6rem;">Counterfactual definitions; actionability and feasibility; robustness and human constraints</td>
+    </tr>
+
+    <tr>
+      <td style="padding:0.6rem;">9</td>
+      <td style="padding:0.6rem;">March 30</td>
+      <td style="padding:0.6rem;">Mechanistic interpretability &amp; mid-project updates</td>
+      <td style="padding:0.6rem;">Representations, features, and circuits; how mechanistic interpretability differs from post-hoc explanations; mid-project updates</td>
+    </tr>
+
+    <tr>
+      <td style="padding:0.6rem;">10</td>
+      <td style="padding:0.6rem;">April 6</td>
+      <td style="padding:0.6rem;">Mechanistic interpretability and large language models</td>
+      <td style="padding:0.6rem;">LLM internals; probing vs. circuits; steering vs. understanding; limits of current approaches</td>
+    </tr>
+
+    <tr>
+      <td style="padding:0.6rem;">11</td>
+      <td style="padding:0.6rem;">April 13</td>
+      <td style="padding:0.6rem;">Understanding and reasoning in large language models</td>
+      <td style="padding:0.6rem;">Chain-of-thought and explanation-based prompting; faithfulness vs. usefulness of explanations; reasoning, abstraction, and failure modes</td>
+    </tr>
+
+    <tr>
+      <td style="padding:0.6rem;">12</td>
+      <td style="padding:0.6rem;">April 20</td>
+      <td style="padding:0.6rem;">Multiplicity, underspecification, and the Rashomon effect</td>
+      <td style="padding:0.6rem;">Model sets rather than single models; why explanations do not resolve ambiguity; implications for fairness and trust</td>
+    </tr>
+
+    <tr>
+      <td style="padding:0.6rem;">13</td>
+      <td style="padding:0.6rem;">April 27</td>
+      <td style="padding:0.6rem;">Interpretability, trustworthiness, and deployment</td>
+      <td style="padding:0.6rem;">Fairness, robustness, privacy, unlearning; regulation, accountability, and open problems</td>
+    </tr>
+
+    <tr>
+      <td style="padding:0.6rem;">14</td>
+      <td style="padding:0.6rem;">May 4</td>
+      <td style="padding:0.6rem;">Final project presentations</td>
+      <td style="padding:0.6rem;">In-class final presentations</td>
+    </tr>
+  </tbody>
+</table>
+
+<p style="margin-top:0.75rem; font-size:0.95rem; opacity:0.85;">
+  Topics and ordering are tentative and may be adjusted during the semester based on class interests, guest lectures, and pacing.
+</p>
+
+
   <!--<p>
     At the same time, many widely used explanation methods are heuristic, poorly evaluated, or misleading when used outside their
     intended scope. Explanations can be manipulated, disagreed upon, or give a false sense of understanding. Meanwhile, regulatory
