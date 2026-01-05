@@ -17,10 +17,7 @@ nav_order: 4
   <p>
     Machine learning models increasingly shape decisions that affect real people: medical diagnoses, hiring and lending decisions,
     content moderation, legal risk assessment, and scientific discovery.
-  </p>
-
-  <p>
-    At the same time, the models we rely on—including deep neural networks, foundation models, and large language models—are becoming
+    At the same time, the models we rely on, including deep neural networks, foundation models, and large language models, are becoming
     more complex, less transparent, and harder to reason about. This tension raises a fundamental question:
     <em>how can we understand, trust, and responsibly deploy models whose internal logic is opaque, fragile, or underspecified?</em>
   </p>
@@ -30,13 +27,6 @@ nav_order: 4
     understandable; <strong>Explainable AI (XAI)</strong> seeks to provide post-hoc summaries of complex “black-box” models; and
     <strong>Mechanistic Interpretability</strong> attempts to reverse-engineer the internal circuits of neural networks.
     These approaches offer different guarantees and serve different goals.
-  </p>
-
-  <p>
-    At the same time, many widely used explanation methods are heuristic, poorly evaluated, or misleading when used outside their
-    intended scope. Explanations can be manipulated, disagreed upon, or give a false sense of understanding. Meanwhile, regulatory
-    pressure (e.g., accountability and transparency requirements), safety concerns, and the rapid adoption of LLMs have made these
-    issues impossible to ignore.
   </p>
 
   <p>
@@ -74,6 +64,16 @@ nav_order: 4
   (e.g., NumPy, scikit-learn, and PyTorch), including working with real datasets and writing reasonably organized, reproducible code.
 </p>
 
+<p>
+ <strong>Workload.</strong> The class workload will consist of two main components: (1) in-class paper discussions with student-led presentations, and (2) a semester-long course project completed individually or in a team of two. The primary deliverable for the course project is a sequence of in-class presentations: a project proposal, a mid-project review, and a final presentation. These presentations (slides + discussion) serve as the main “report” of the project. Teams may optionally submit a longer written report (PDF) with additional technical details, experiments, or analysis.
+</p>
+
+  <!--<p>
+    At the same time, many widely used explanation methods are heuristic, poorly evaluated, or misleading when used outside their
+    intended scope. Explanations can be manipulated, disagreed upon, or give a false sense of understanding. Meanwhile, regulatory
+    pressure (e.g., accountability and transparency requirements), safety concerns, and the rapid adoption of LLMs have made these
+    issues impossible to ignore.
+  </p>-->
 
 <!--I have formal pedagogical training in college teaching from Duke Graduate School.
 I served as a Teaching Assistant for the following classes:
