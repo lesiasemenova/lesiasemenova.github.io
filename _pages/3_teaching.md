@@ -105,7 +105,7 @@ nav_order: 4
       <td style="padding:0.6rem;">4</td>
       <td style="padding:0.6rem;">February 16</td>
       <td style="padding:0.6rem;">Inherently interpretable models</td>
-      <td style="padding:0.6rem;">Linear models, sparsity, generalized additive models, scoring systems, decision trees, and rule-based models. <strong> Guest lecture: Hayden McTavish and Varun Babbar from Duke University with talk modern algorithms on decision trees </strong></td>
+      <td style="padding:0.6rem;">Linear models, sparsity, generalized additive models, scoring systems, decision trees, and rule-based models. <strong> Guest lecture: Hayden McTavish and Varun Babbar from Duke University with talk on modern algorithms of decision trees </strong></td>
     </tr>
 
     <tr>
