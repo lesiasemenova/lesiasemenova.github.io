@@ -190,45 +190,7 @@ nav_order: 4
 </table>
 
 
-  <!--
-
-   | Week | Date | Topic | Details |
-
-| :--- | :--- | :--- | :--- |
-
-| 1 | Jan 26 | Introduction (remote) | Syllabus overview, introduction to interpretability and explainability. **Guest lecture: Alina Jade Barnett from URI on Inherently Interpretable Neural Networks.** |
-
-| 2 | Feb 2 | Global understanding | Data visualization, feature importance, exploratory analysis; stakeholders, use cases, and failure modes. |
-
-| 3 | Feb 9 | Landscape & Projects | Overview: interpretable models, post-hoc, counterfactuals, mechanistic interpretability, and the Rashomon effect. |
-
-| 4 | Feb 16 | Interpretable models | Linear models, sparsity, GAMs, scoring systems, and rules. **Guest lecture: Hayden McTavish & Varun Babbar from Duke on modern decision trees.** |
-
-| 5 | Feb 23 | Proposals | Prototype-based and concept-based approaches; **Project proposal presentations**. |
-
-| 6 | Mar 2 | Post-hoc I | Feature and data attributions: What they approximate; local vs. global; LIME, SHAP, gradient methods; common misuse. |
-
-| 7 | Mar 9 | Post-hoc II | Evaluation and pitfalls: Disagreement, sensitivity, sanity checks, manipulation, and robustness. |
-
-| — | Mar 16 | **Spring Break** | **No class** |
-
-| 8 | Mar 23 | Recourse | Counterfactual definitions; actionability and feasibility; robustness and human constraints. |
-
-| 9 | Mar 30 | Mechanistic Interp. I | Representations, features, and circuits; difference from post-hoc methods; **Mid-project updates**. |
-
-| 10 | Apr 6 | Mechanistic Interp. II | LLM internals; probing vs. circuits; steering vs. understanding; limits of current approaches. |
-
-| 11 | Apr 13 | LLM Reasoning | Chain-of-thought and explanation-based prompting; faithfulness vs. usefulness; abstraction and failure modes. |
-
-| 12 | Apr 20 | Rashomon Effect | Multiplicity and underspecification; why explanations do not resolve ambiguity; implications for fairness. |
-
-| 13 | Apr 27 | Deployment | Trustworthiness: Fairness, robustness, privacy, unlearning; regulation, accountability, and open problems. |
-
-| 14 | May 4 | Final Presentations | **In-class final presentations.** | 
-  
-  
-  
-  <p>
+  <!--<p>
     At the same time, many widely used explanation methods are heuristic, poorly evaluated, or misleading when used outside their
     intended scope. Explanations can be manipulated, disagreed upon, or give a false sense of understanding. Meanwhile, regulatory
     pressure (e.g., accountability and transparency requirements), safety concerns, and the rapid adoption of LLMs have made these
