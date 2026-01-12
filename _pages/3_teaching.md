@@ -84,7 +84,7 @@ nav_order: 4
       <td style="padding:0.6rem;">1</td>
       <td style="padding:0.6rem;">January 26</td>
       <td style="padding:0.6rem;">Introduction (remote)</td>
-      <td style="padding:0.6rem;">Syllabus overview, introduction to interpretability and explainability. <strong> Guest lecture: Alina Jade Barnett fron university of Rhode Island with talk on Inherently Interpretable Neural Networks for Scientific Discovery and High-Stakes Decision Support </strong></td>
+      <td style="padding:0.6rem;">Syllabus overview, introduction to interpretability and explainability. <strong> Guest lecture: Alina Jade Barnett from University of Rhode Island with talk on Inherently Interpretable Neural Networks for Scientific Discovery and High-Stakes Decision Support </strong></td>
     </tr>
 
     <tr>
