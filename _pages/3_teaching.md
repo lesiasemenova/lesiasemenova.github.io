@@ -84,7 +84,7 @@ nav_order: 4
       <td style="padding:0.6rem;">1</td>
       <td style="padding:0.6rem;">January 26</td>
       <td style="padding:0.6rem;">Introduction (remote)</td>
-      <td style="padding:0.6rem;">Syllabus overview, introduction to interpretability and explainability</td>
+      <td style="padding:0.6rem;">Syllabus overview, introduction to interpretability and explainability. <strong> Guest lecture: Alina Jade Barnett fron university of Rhode Island with talk on Inherently Interpretable Neural Networks for Scientific Discovery and High-Stakes Decision Support </strong></td>
     </tr>
 
     <tr>
@@ -105,7 +105,7 @@ nav_order: 4
       <td style="padding:0.6rem;">4</td>
       <td style="padding:0.6rem;">February 16</td>
       <td style="padding:0.6rem;">Inherently interpretable models</td>
-      <td style="padding:0.6rem;">Linear models, sparsity, generalized additive models, scoring systems, decision trees, and rule-based models</td>
+      <td style="padding:0.6rem;">Linear models, sparsity, generalized additive models, scoring systems, decision trees, and rule-based models. <strong> Guest lecture: Hayden McTavish and Varun Babbar from Duke University with talk modern algorithms on decision trees </strong></td>
     </tr>
 
     <tr>
