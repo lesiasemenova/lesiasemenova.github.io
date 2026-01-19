@@ -5,11 +5,10 @@
 
 <section>
   <p>
-    Machine learning models increasingly shape decisions that affect real people: medical diagnoses, hiring and lending decisions,
-    content moderation, legal risk assessment, and scientific discovery.
-    At the same time, the models we rely on, including deep neural networks, foundation models, and large language models, are becoming
-    more complex, less transparent, and harder to reason about. This tension raises a fundamental question:
-    <em>how can we understand, trust, and responsibly deploy models whose internal logic is opaque, fragile, or underspecified?</em>
+    Machine learning models increasingly shape decisions that affect real people: medical diagnoses, hiring, legal and lending decisions,  scientific discovery to name a few.
+    At the same time, the models we rely on due to their black-box nature are becoming
+    more complex, less transparent, and harder to interpret. This tension raises a fundamental question:
+    <em>how can we understand, trust, and responsibly deploy models whose internal logic is opaque, easy to trick,  and might be right for the wrong reasons?</em>
   </p>
 
   <p>
@@ -22,8 +21,7 @@
   <p>
     This course is motivated by three observations: (i) accuracy alone is no longer sufficient; (ii) not all explanations are created
     equal; and (iii) many distinct models can fit the same data equally well yet behave very differently. Understanding these effects
-    (often referred to as the <em>Rashomon effect</em>) is essential for building trustworthy machine learning systems, especially in
-    modern overparameterized models.
+     is essential for building trustworthy machine learning systems.
   </p>
 
   <p>
