@@ -83,7 +83,7 @@ nav: false
       <td style="padding:0.6rem;">1</td>
       <td style="padding:0.6rem;">January 26</td>
       <td style="padding:0.6rem;">Introduction. Remote: [Zoom Meeting URL](https://rutgers.zoom.us/j/97741773620?pwd=k0vmc1mk8sbilfX6R6UXapFCKPib61.1&from=addon), Meeting ID: 977 4177 3620, Passcode: 891706</td>
-      <td style="padding:0.6rem;">Syllabus overview, introduction to interpretability and explainability. <strong> Guest lecture: Alina Jade Barnett from University of Rhode Island with talk on Inherently Interpretable Neural Networks for Scientific Discovery and High-Stakes Decision Support </strong> /td>
+      <td style="padding:0.6rem;">Syllabus overview, introduction to interpretability and explainability. Reading: Doshi-Velez and Kim, 2017, [Towards a Rigorous Science of Interpretable Machine Learning](https://arxiv.org/abs/1702.08608) <strong> Guest lecture: Alina Jade Barnett from University of Rhode Island with talk on Inherently Interpretable Neural Networks for Scientific Discovery and High-Stakes Decision Support </strong> /td>
     </tr>
 
     <tr>
