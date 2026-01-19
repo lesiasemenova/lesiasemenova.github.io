@@ -1,3 +1,12 @@
+---
+layout: page
+permalink: /ixai_spring2026/
+inline: true
+title: ixai_spring2026
+related_posts: false
+nav: false
+---
+
 <div style="text-align:center; margin: 2rem 0 1.5rem 0;">
   <h1 style="margin-bottom:0.25rem;">Interpretable and Explainable AI</h1>
   <div style="font-size:1.05rem; opacity:0.85;">Course for Graduate students, Spring 2026</div>
