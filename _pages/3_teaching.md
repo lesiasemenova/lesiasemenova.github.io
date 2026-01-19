@@ -56,7 +56,8 @@ nav_order: 4
   </p>
 </section>
 
-<p><strong>Time and room.</strong> Mondays 12:10–3:10 pm, Busch Campus.</p>
+<p><strong>Time and room.</strong> Mondays 12:10–3:10 pm, Busch Campus, SEC-210 (T. Alexander Pond SERC Science & Engineering Resource Center
+)</p>
 
 <p>
   <strong>Prerequisites.</strong> This is a graduate-level course. Students should be comfortable with basic linear algebra,
