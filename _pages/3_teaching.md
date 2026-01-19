@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 <ul>
-  <li>16:198:671:01, <a href="/_pages/ixai_spring2026/">Interpretable and Explainable AI</a>, SPRING 2026, Rutgers University</li>
+  <li>16:198:671:01, <a href="/ixai_spring2026/">Interpretable and Explainable AI</a>, SPRING 2026, Rutgers University</li>
   <li>Terng Lecture Course on Interpretable Machine Learning, May 2022, Institute of Advanced Study</li>
 </ul>
 
