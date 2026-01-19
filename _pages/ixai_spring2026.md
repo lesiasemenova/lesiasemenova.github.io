@@ -116,7 +116,7 @@
       <td style="padding:0.6rem;">7</td>
       <td style="padding:0.6rem;">March 9</td>
       <td style="padding:0.6rem;">Post-hoc explanations II: evaluation and pitfalls</td>
-      <td style="padding:0.6rem;">Explanation disagreement, sensitivity to baselines and perturbations, sanity checks, manipulation and robustness</td>
+      <td style="padding:0.6rem;">Explanation disagreement, sensitivity to baselines and perturbations, sanity checks, manipulation and robustness. <strong> Guest lecture: Suraj Srinivas from Bosch AI on feature attribution failures. </strong> </td>
     </tr>
 
     <tr>
