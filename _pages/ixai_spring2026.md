@@ -121,7 +121,7 @@ Scores</a>. <strong> Guest lecture: Hayden McTavish and Varun Babbar from Duke U
       <td style="padding:0.6rem;">6</td>
       <td style="padding:0.6rem;">March 2</td>
       <td style="padding:0.6rem;">Post-hoc explanations I: feature and data attributions</td>
-      <td style="padding:0.6rem;">What feature attributions approximate; local vs. global explanations; LIME, SHAP, gradient-based methods; assumptions and common misuse</td>
+      <td style="padding:0.6rem;">What feature attributions approximate; local vs. global explanations; LIME, SHAP, gradient-based methods. </td>
     </tr>
 
     <tr>
