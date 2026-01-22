@@ -91,7 +91,8 @@ nav: false
       <td style="padding:0.6rem;">2</td>
       <td style="padding:0.6rem;">February 2</td>
       <td style="padding:0.6rem;">Global understanding and the human in the loop</td>
-      <td style="padding:0.6rem;">Data visualization, feature importance, exploratory analysis; stakeholders, use cases, and failure modes</td>
+      <td style="padding:0.6rem;">Data visualization, feature importance, exploratory analysis; stakeholders, use cases, and failure modes. Reading: Hong et. al., 2020, <a href="https://arxiv.org/abs/2004.11440">Human Factors in Model Interpretability: Industry Practices, Challenges</a>, 
+Kaur et. al., 2020, <a href="https://dl.acm.org/doi/epdf/10.1145/3313831.3376219">Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning</a></td>
     </tr>
 
     <tr>
