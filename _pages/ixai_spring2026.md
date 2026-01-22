@@ -62,7 +62,7 @@ nav: false
 </p>
 
 <p>
- <strong>Workload.</strong> The class workload will consist of two main components: (1) in-class paper discussions with student-led presentations, and (2) a semester-long course project completed individually or in a small team. The rubric is: paper presentation 30%, engagement during the class 20%, project 50%. Paper presentations by students will start from week 4. Syllabus: <strong>Syllabus:
+ <strong>Workload.</strong> The class workload will consist of two main components: (1) in-class paper discussions with student-led presentations, and (2) a semester-long course project completed individually or in a small team. The rubric is: paper presentation 30%, engagement during the class 20%, project 50%. Paper presentations by students will start from week 4. <strong>Syllabus:
   <a href="ixai_spring2026.pdf" target="_blank">
     CS 671 Interpretable and Explainable AI – Spring 2026 (PDF)
   </a> </strong>.
