@@ -106,7 +106,8 @@ Kaur et. al., 2020, <a href="https://dl.acm.org/doi/epdf/10.1145/3313831.3376219
       <td style="padding:0.6rem;">4</td>
       <td style="padding:0.6rem;">February 16</td>
       <td style="padding:0.6rem;">Inherently interpretable models</td>
-      <td style="padding:0.6rem;">Linear models, sparsity, generalized additive models, scoring systems, decision trees, and rule-based models. <strong> Guest lecture: Hayden McTavish and Varun Babbar from Duke University with talk on modern algorithms of decision trees </strong></td>
+      <td style="padding:0.6rem;">Linear models, sparsity, generalized additive models, scoring systems, decision trees, and rule-based models. Seminar papers: Caruana et. al., 2015, <a href="https://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf">Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission</a>, Liu et. al., 2022, <a href="https://arxiv.org/pdf/2210.05846">FasterRisk: Fast and Accurate Interpretable Risk
+Scores</a>. <strong> Guest lecture: Hayden McTavish and Varun Babbar from Duke University with talk on modern algorithms of decision trees </strong></td>
     </tr>
 
     <tr>
