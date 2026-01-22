@@ -114,7 +114,7 @@ Scores</a>. <strong> Guest lecture: Hayden McTavish and Varun Babbar from Duke U
       <td style="padding:0.6rem;">5</td>
       <td style="padding:0.6rem;">February 23</td>
       <td style="padding:0.6rem;">Inherently interpretable models &amp; project proposals</td>
-      <td style="padding:0.6rem;">Prototype-based and concept-based approaches; project proposal presentations</td>
+      <td style="padding:0.6rem;">Prototype-based and concept-based approaches; project proposal presentations. Seminar papers: Chen at. al., 2019 <a href="https://proceedings.neurips.cc/paper_files/paper/2019/file/adf7ee2dcf142b0e11888e72b43fcb75-Paper.pdf">This Looks Like That: Deep Learning for Interpretable Image Recognition</a>, Koh et. al., 2020, <a href="https://arxiv.org/pdf/2007.04612">Concept Bottleneck Models</a>.</td>
     </tr>
 
     <tr>
