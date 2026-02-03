@@ -173,7 +173,7 @@ Scores</a>. <strong> Guest lecture: Hayden McTavish and Varun Babbar from Duke U
       <td style="padding:0.6rem;">12</td>
       <td style="padding:0.6rem;">April 20</td>
       <td style="padding:0.6rem;">Multiplicity, underspecification, and the Rashomon effect</td>
-      <td style="padding:0.6rem;">Model sets rather than single models; why explanations do not resolve ambiguity; implications for fairness and trust. <strong> Guest lecture: Lesia Semenova on TRACE AI lab research </strong></td>
+      <td style="padding:0.6rem;">Model sets rather than single models; why explanations do not resolve ambiguity; implications for fairness and trust </td>
     </tr>
 
     <tr>
