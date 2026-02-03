@@ -159,7 +159,7 @@ Scores</a>. <strong> Guest lecture: Hayden McTavish and Varun Babbar from Duke U
       <td style="padding:0.6rem;">10</td>
       <td style="padding:0.6rem;">April 6</td>
       <td style="padding:0.6rem;">Mechanistic interpretability and large language models</td>
-      <td style="padding:0.6rem;">LLM internals; probing vs. circuits; steering vs. understanding; limits of current approaches</td>
+      <td style="padding:0.6rem;">LLM internals; probing vs. circuits; steering vs. understanding; limits of current approaches. <strong> Guest lecture </strong></td>
     </tr>
 
     <tr>
@@ -173,14 +173,14 @@ Scores</a>. <strong> Guest lecture: Hayden McTavish and Varun Babbar from Duke U
       <td style="padding:0.6rem;">12</td>
       <td style="padding:0.6rem;">April 20</td>
       <td style="padding:0.6rem;">Multiplicity, underspecification, and the Rashomon effect</td>
-      <td style="padding:0.6rem;">Model sets rather than single models; why explanations do not resolve ambiguity; implications for fairness and trust</td>
+      <td style="padding:0.6rem;">Model sets rather than single models; why explanations do not resolve ambiguity; implications for fairness and trust. <strong> Guest lecture: Lesia Semenova on TRACE AI lab research </strong></td>
     </tr>
 
     <tr>
       <td style="padding:0.6rem;">13</td>
       <td style="padding:0.6rem;">April 27</td>
       <td style="padding:0.6rem;">Interpretability, trustworthiness, and deployment</td>
-      <td style="padding:0.6rem;">Fairness, robustness, privacy, unlearning; regulation, accountability, and open problems</td>
+      <td style="padding:0.6rem;">Fairness, robustness, privacy, unlearning; regulation, accountability, and open problems <strong> Guest lecture: Ben Laufer from Cornell University on Ethical and Trustworthy AI </strong></td>
     </tr>
 
     <tr>
