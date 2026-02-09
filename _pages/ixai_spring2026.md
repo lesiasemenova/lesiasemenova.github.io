@@ -109,7 +109,7 @@ Kaur et. al., 2020, <a href="https://dl.acm.org/doi/epdf/10.1145/3313831.3376219
       <td style="padding:0.6rem;">4</td>
       <td style="padding:0.6rem;">February 16</td>
       <td style="padding:0.6rem;">Inherently interpretable models</td>
-      <td style="padding:0.6rem;">Linear models, sparsity, generalized additive models, scoring systems, decision trees, and rule-based models. Seminar papers: Caruana et. al., 2015, <a href="https://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf">Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission</a>, Liu et. al., 2022, <a href="https://arxiv.org/pdf/2210.05846">FasterRisk: Fast and Accurate Interpretable Risk
+      <td style="padding:0.6rem;">Linear models, sparsity, generalized additive models, scoring systems, decision trees, and rule-based models. <strong>Seminar papers:</strong> Caruana et. al., 2015, <a href="https://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf">Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission</a>, Liu et. al., 2022, <a href="https://arxiv.org/pdf/2210.05846">FasterRisk: Fast and Accurate Interpretable Risk
 Scores</a>. <strong> Guest lecture: Hayden McTavish and Varun Babbar from Duke University with talk on modern algorithms of decision trees </strong></td>
     </tr>
 
@@ -117,14 +117,14 @@ Scores</a>. <strong> Guest lecture: Hayden McTavish and Varun Babbar from Duke U
       <td style="padding:0.6rem;">5</td>
       <td style="padding:0.6rem;">February 23</td>
       <td style="padding:0.6rem;">Inherently interpretable models &amp; project proposals</td>
-      <td style="padding:0.6rem;">Prototype-based and concept-based approaches; project proposal presentations. Seminar papers: Chen at. al., 2019 <a href="https://proceedings.neurips.cc/paper_files/paper/2019/file/adf7ee2dcf142b0e11888e72b43fcb75-Paper.pdf">This Looks Like That: Deep Learning for Interpretable Image Recognition</a>, Koh et. al., 2020, <a href="https://arxiv.org/pdf/2007.04612">Concept Bottleneck Models</a>.</td>
+      <td style="padding:0.6rem;">Prototype-based and concept-based approaches; project proposal presentations. <strong>Seminar papers:</strong> Chen at. al., 2019 <a href="https://proceedings.neurips.cc/paper_files/paper/2019/file/adf7ee2dcf142b0e11888e72b43fcb75-Paper.pdf">This Looks Like That: Deep Learning for Interpretable Image Recognition</a>, Koh et. al., 2020, <a href="https://arxiv.org/pdf/2007.04612">Concept Bottleneck Models</a>.</td>
     </tr>
 
     <tr>
       <td style="padding:0.6rem;">6</td>
       <td style="padding:0.6rem;">March 2</td>
       <td style="padding:0.6rem;">Post-hoc explanations I: feature and data attributions</td>
-      <td style="padding:0.6rem;">What feature attributions approximate; local vs. global explanations; LIME, SHAP, gradient-based methods. Seminar papers: Ribeiro et. al., 2016, <a href="https://arxiv.org/pdf/1602.04938">“Why Should I Trust You?”
+      <td style="padding:0.6rem;">What feature attributions approximate; local vs. global explanations; LIME, SHAP, gradient-based methods. <strong>Seminar papers:</strong> Ribeiro et. al., 2016, <a href="https://arxiv.org/pdf/1602.04938">“Why Should I Trust You?”
 Explaining the Predictions of Any Classifier</a>, Lundberg and Lee, 2017, <a href="https://proceedings.neurips.cc/paper_files/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf">A Unified Approach to Interpreting Model Predictions Scores</a>, Smilkov et. al., 2017, <a href="https://arxiv.org/pdf/1706.03825">Smoothgrad: Removing noise by adding noise</a>, Sundararajan et. al., 2017, <a href="https://arxiv.org/pdf/1703.01365">Axiomatic Attribution for Deep Networks</a>. </td>
     </tr>
 
@@ -132,8 +132,8 @@ Explaining the Predictions of Any Classifier</a>, Lundberg and Lee, 2017, <a hre
       <td style="padding:0.6rem;">7</td>
       <td style="padding:0.6rem;">March 9</td>
       <td style="padding:0.6rem;">Post-hoc explanations II: evaluation and pitfalls</td>
-      <td style="padding:0.6rem;">Explanation disagreement, sensitivity to baselines and perturbations, sanity checks, manipulation and robustness. Seminar papers: Slack and Hilgard et. al., 2020, <a href="https://arxiv.org/pdf/1911.02508">Fooling LIME and SHAP</a>,
-      Dombrowski et. al., 2019, <a href="https://arxiv.org/pdf/1906.07983">Explanations can be manipulated and geometry is to blame</a>,
+      <td style="padding:0.6rem;">Explanation disagreement, sensitivity to baselines and perturbations, sanity checks, manipulation and robustness. <strong>Seminar papers:</strong> Slack and Hilgard et. al., 2020, <a href="https://arxiv.org/pdf/1911.02508">Fooling LIME and SHAP</a>,
+      Dombrowski et. al., 2019, <a href="https://arxiv.org/pdf/1906.07983">Explanations can be manipulated and geometry is to blame</a>.
       <strong> Guest lecture: Suraj Srinivas from Bosch AI on feature attribution failures. </strong> </td>
     </tr>
 
