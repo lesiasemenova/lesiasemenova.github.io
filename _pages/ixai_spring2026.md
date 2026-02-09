@@ -124,7 +124,8 @@ Scores</a>. <strong> Guest lecture: Hayden McTavish and Varun Babbar from Duke U
       <td style="padding:0.6rem;">6</td>
       <td style="padding:0.6rem;">March 2</td>
       <td style="padding:0.6rem;">Post-hoc explanations I: feature and data attributions</td>
-      <td style="padding:0.6rem;">What feature attributions approximate; local vs. global explanations; LIME, SHAP, gradient-based methods. </td>
+      <td style="padding:0.6rem;">What feature attributions approximate; local vs. global explanations; LIME, SHAP, gradient-based methods. Seminar papers: Ribeiro et. al., 2016, <a href="https://arxiv.org/pdf/1602.04938">“Why Should I Trust You?”
+Explaining the Predictions of Any Classifier</a>, Lundberg and Lee, 2017, <a href="https://proceedings.neurips.cc/paper_files/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf">A Unified Approach to Interpreting Model Predictions Scores</a>, Smilkov et. al., 2017, <a href="https://arxiv.org/pdf/1706.03825">Smoothgrad: Removing noise by adding noise</a>, Sundararajan et. al., 2017, <a href="https://arxiv.org/pdf/1703.01365">Axiomatic Attribution for Deep Networks</a>. </td>
     </tr>
 
     <tr>
