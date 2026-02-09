@@ -132,7 +132,9 @@ Explaining the Predictions of Any Classifier</a>, Lundberg and Lee, 2017, <a hre
       <td style="padding:0.6rem;">7</td>
       <td style="padding:0.6rem;">March 9</td>
       <td style="padding:0.6rem;">Post-hoc explanations II: evaluation and pitfalls</td>
-      <td style="padding:0.6rem;">Explanation disagreement, sensitivity to baselines and perturbations, sanity checks, manipulation and robustness. <strong> Guest lecture: Suraj Srinivas from Bosch AI on feature attribution failures. </strong> </td>
+      <td style="padding:0.6rem;">Explanation disagreement, sensitivity to baselines and perturbations, sanity checks, manipulation and robustness. Seminar papers: Slack and Hilgard et. al., 2020, <a href="https://arxiv.org/pdf/1911.02508">Fooling LIME and SHAP</a>,
+      Dombrowski et. al., 2019, <a href="https://arxiv.org/pdf/1906.07983">Explanations can be manipulated and geometry is to blame</a>,
+      <strong> Guest lecture: Suraj Srinivas from Bosch AI on feature attribution failures. </strong> </td>
     </tr>
 
     <tr>
