@@ -148,7 +148,17 @@ Explaining the Predictions of Any Classifier</a>, Lundberg and Lee, 2017, <a hre
       <td style="padding:0.6rem;">8</td>
       <td style="padding:0.6rem;">March 23</td>
       <td style="padding:0.6rem;">Counterfactual explanations and algorithmic recourse</td>
-      <td style="padding:0.6rem;">Counterfactual definitions; actionability and feasibility; robustness and human constraints</td>
+      <td style="padding:0.6rem;">Counterfactual definitions; actionability and feasibility; robustness and human constraints.
+      <strong>Seminar papers:</strong>
+      Mothilal et. al., 2020, <a href="https://arxiv.org/pdf/1905.07697">Explaining Machine Learning Classifiers through Diverse
+Counterfactual Explanations</a>
+Karimi et. al., 2020, <a href="https://arxiv.org/pdf/2002.06278">Algorithmic Recourse:
+from Counterfactual Explanations to Interventions</a>
+Upadhyay et. al., 2020, <a href="https://iis.seas.harvard.edu/papers/upadhyay2025counterfactual.pdf">Explaining Counterfactual Explanations May Not Be the Best Algorithmic Recourse Approachs</a>
+      Turbal et. al., 2025, <a href="https://openreview.net/pdf?id=GNDgQie8W4">ElliCE: Efficient and Provably Robust Algorithmic Recourse via the Rashomon Sets</a>
+      
+      
+      </td>
     </tr>
 
     <tr>
