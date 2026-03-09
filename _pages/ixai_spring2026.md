@@ -151,13 +151,11 @@ Explaining the Predictions of Any Classifier</a>, Lundberg and Lee, 2017, <a hre
       <td style="padding:0.6rem;">Counterfactual definitions; actionability and feasibility; robustness and human constraints.
       <strong>Seminar papers:</strong>
       Mothilal et. al., 2020, <a href="https://arxiv.org/pdf/1905.07697">Explaining Machine Learning Classifiers through Diverse
-Counterfactual Explanations</a>
+Counterfactual Explanations</a>,
 Karimi et. al., 2020, <a href="https://arxiv.org/pdf/2002.06278">Algorithmic Recourse:
-from Counterfactual Explanations to Interventions</a>
-Upadhyay et. al., 2020, <a href="https://iis.seas.harvard.edu/papers/upadhyay2025counterfactual.pdf">Explaining Counterfactual Explanations May Not Be the Best Algorithmic Recourse Approachs</a>
+from Counterfactual Explanations to Interventions</a>,
+Upadhyay et. al., 2020, <a href="https://iis.seas.harvard.edu/papers/upadhyay2025counterfactual.pdf">Explaining Counterfactual Explanations May Not Be the Best Algorithmic Recourse Approachs</a>,
       Turbal et. al., 2025, <a href="https://openreview.net/pdf?id=GNDgQie8W4">ElliCE: Efficient and Provably Robust Algorithmic Recourse via the Rashomon Sets</a>
-      
-      
       </td>
     </tr>
 
@@ -165,7 +163,10 @@ Upadhyay et. al., 2020, <a href="https://iis.seas.harvard.edu/papers/upadhyay202
       <td style="padding:0.6rem;">9</td>
       <td style="padding:0.6rem;">March 30</td>
       <td style="padding:0.6rem;">Mechanistic interpretability &amp; mid-project updates</td>
-      <td style="padding:0.6rem;">Representations, features, and circuits; how mechanistic interpretability differs from post-hoc explanations; mid-project updates</td>
+      <td style="padding:0.6rem;">Representations, features, and circuits; how mechanistic interpretability differs from post-hoc explanations; mid-project updates.
+      <strong>Seminar papers:</strong>
+Olah et. al., 2020, <a href="https://distill.pub/2020/circuits/zoom-in/">Zoom In: An Introduction to Circuits</a>, 
+Bricken et. al., 2023, <a href="https://transformer-circuits.pub/2023/monosemantic-features">Towards Monosemanticity: Decomposing Language Models With Dictionary Learning</a></td>
     </tr>
 
     <tr>
