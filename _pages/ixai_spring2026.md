@@ -173,8 +173,13 @@ Bricken et. al., 2023, <a href="https://transformer-circuits.pub/2023/monosemant
       <td style="padding:0.6rem;">10</td>
       <td style="padding:0.6rem;">April 6</td>
       <td style="padding:0.6rem;">Mechanistic interpretability and large language models</td>
-      <td style="padding:0.6rem;">LLM internals; probing vs. circuits; steering vs. understanding; limits of current approaches. <strong> Guest lecture: </strong> Shawn Im from University of Wisconsin–Madison
- "How Do Transformers Learn to Associate Tokens: Gradient Leading Terms Bring Mechanistic Interpretability"</td>
+      <td style="padding:0.6rem;">LLM internals; probing vs. circuits; steering vs. understanding; limits of current approaches. 
+      <strong>Seminar papers:</strong>
+Meng et. al., 2023, <a href="https://arxiv.org/pdf/2202.05262">Locating and Editing Factual Associations in GPT</a>, 
+Zhang et. al., 2023, <a href="https://arxiv.org/pdf/2309.16042">Towards Best Practices of Activation Patching in Language Models: Metrics and Methods
+</a>
+      <strong> Guest lecture:  Shawn Im from University of Wisconsin–Madison
+ "How Do Transformers Learn to Associate Tokens: Gradient Leading Terms Bring Mechanistic Interpretability" </strong></td>
     </tr>
 
     <tr>
