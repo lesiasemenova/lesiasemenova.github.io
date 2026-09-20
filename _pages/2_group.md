@@ -24,31 +24,6 @@ groups:
         image: group/neil_gandhi.jpeg
         url: ""
 
-      - name: Demian Samus
-        affiliation: MS student @ Taras Shevchenko National University of Kyiv
-        image: group/placeholder.png
-        url: ""
-
-      - name: Zihua Meng
-        affiliation: MS student @ University of Pennsylvania
-        image: group/placeholder.png
-        url: ""
-
-      - name: Andrew Chung
-        affiliation: MS student @ Columbia University
-        image: group/andrew_chung.jpeg
-        url: ""
-
-      - name: Rutva Patel
-        affiliation: MS student @ University of Pennsylvania
-        image: group/placeholder.png
-        url: ""
-
-      - name: Abhishu Oza
-        affiliation: MS student @ Rutgers
-        image: group/abhishu_oza.jpg
-        url: https://abhishuoza.github.io/
-
       - name: Timothy Hsu
         affiliation: BS student @ Rutgers (Aresty Research Assistant Program)
         image: group/tim_hsu.jpg
@@ -72,6 +47,31 @@ groups:
       - name: Prisha Priyadarshini
         affiliation: BS student @ Rutgers
         image: group/prisha_priyadarshini.jpg
+        url: ""
+
+      - name: Abhishu Oza
+        affiliation: MS student @ Rutgers
+        image: group/abhishu_oza.jpg
+        url: https://abhishuoza.github.io/
+
+      - name: Andrew Chung
+        affiliation: MS student @ Columbia University
+        image: group/andrew_chung.jpeg
+        url: ""
+
+      - name: Demian Samus
+        affiliation: MS student @ Taras Shevchenko National University of Kyiv
+        image: group/placeholder.png
+        url: ""
+
+      - name: Zihua Meng
+        affiliation: MS student @ University of Pennsylvania
+        image: group/placeholder.png
+        url: ""
+
+      - name: Rutva Patel
+        affiliation: MS student @ University of Pennsylvania
+        image: group/placeholder.png
         url: ""
 
   - name: Alumni
