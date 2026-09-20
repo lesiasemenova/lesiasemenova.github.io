@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<p class="important-announcement">  <a href="/prospective_students/">I am recruiting highly motivated PhD students and research interns with strong technical backgrounds. The prospective students page describes current projects and how to apply.</a>.</p>
+<p class="important-announcement">  <a href="/prospective_students/">I am recruiting highly motivated PhD students (Fall 2027) and research interns with strong technical backgrounds. The prospective students page describes current projects and how to apply.</a>.</p>
 
 I am an Assistant Professor of <a href = 'https://www.cs.rutgers.edu/'>Computer Science at Rutgers University</a>, where I lead a research group that advances the foundations, algorithms, and applied practice for <strong>safe and trustworthy AI, and interpretable ML through model and representation multiplicity</strong>. My work formalizes the Rashomon Effect—the existence of many equally accurate but behaviorally different models—to move the field beyond a single-model mindset.
 
