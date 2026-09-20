@@ -6,7 +6,7 @@ title: group
 nav: true
 nav_order: 3
 
-note: <p>I am recruiting PhD students for Fall 2027. If you're interested in joining my group, please take a look at <a href="/prospective_students/">this page</a>.</p>
+note: <p>I am recruiting highly motivated PhD students and research interns with strong technical backgrounds. If you're interested in joining the group, please see <a href="/prospective_students/">this page</a>.</p>
 
 # Photos: put a square image in assets/img/group/ and set "image: group/<file>";
 # group/placeholder.png is a neutral placeholder. "url" makes the name a link
@@ -21,7 +21,7 @@ groups:
 
       - name: Neil Gandhi
         affiliation: BS student @ Rutgers
-        image: group/placeholder.png
+        image: group/neil_gandhi.jpeg
         url: ""
 
       - name: Demian Samus
@@ -36,7 +36,7 @@ groups:
 
       - name: Andrew Chung
         affiliation: MS student @ Columbia University
-        image: group/placeholder.png
+        image: group/andrew_chung.jpeg
         url: ""
 
       - name: Rutva Patel
@@ -51,7 +51,7 @@ groups:
 
       - name: Timothy Hsu
         affiliation: BS student @ Rutgers (Aresty Research Assistant Program)
-        image: group/placeholder.png # TODO: photo (LinkedIn photos cannot be pulled automatically)
+        image: group/tim_hsu.jpg
         url: https://www.linkedin.com/in/timhsu7
 
       - name: Nikhil Sethuraman
@@ -61,17 +61,17 @@ groups:
 
       - name: Aryaman Mishra
         affiliation: BS student @ Rutgers (Aresty Research Assistant Program)
-        image: group/placeholder.png # TODO: photo (LinkedIn photos cannot be pulled automatically)
+        image: group/aryaman_mishra.jpg
         url: https://www.linkedin.com/in/aryamanm24
 
       - name: Maria George
         affiliation: BS student @ Rutgers
-        image: group/placeholder.png
+        image: group/maria_george.jpeg
         url: ""
 
       - name: Prisha Priyadarshini
         affiliation: BS student @ Rutgers
-        image: group/placeholder.png
+        image: group/prisha_priyadarshini.jpg
         url: ""
 
   - name: Alumni
@@ -79,17 +79,17 @@ groups:
     profiles:
       - name: Arnav Sirigere
         affiliation: BS student @ UIUC (DIMACS REU, summer 2026)
-        image: group/placeholder.png
+        image: group/arnav_sirigere.jpeg
         url: ""
 
       - name: Anastasia Mazur
         affiliation: MS student @ Ukrainian Catholic University (RAI4Ukraine)
-        image: group/placeholder.png
+        image: group/anastasia_mazur.jpeg
         url: ""
 
       - name: Ostap Pavlyshyn
         affiliation: BS student @ Ukrainian Catholic University (RAI4Ukraine)
-        image: group/placeholder.png
+        image: group/ostap_pavlyshyn.jpeg
         url: ""
 
       - name: Bohdan Turbal
