@@ -5,34 +5,108 @@ title: research
 nav: true
 nav_order: 2
 
-research_interests: My research formalizes model multiplicity to transform the existence of multiple predictive truths into a mechanism for safe, trustworthy, and interpretable AI. I develop the theoretical foundations to characterize Rashomon sets and the optimization algorithms required to navigate them for outcomes like provable recourse and personalized alignment. My work bridges the gap between machine learning theory and the practical needs of high-stakes decision-making in healthcare and policy.<!--I aim to facilitate informed decision-making and empower machine learning practitioners, data scientists and policymakers with the tools needed to learn from data effectively, emphasizing interpretability, robustness, and trustworthiness. My goals are both to provide theoretical foundations that explain common phenomena observed in the data (especially for interpretable ML) and to design practical tools for reliable and trustworthy AI. The applications of my work are typically in high-stakes decision domains such as healthcare, finance, criminal justice, and governance.<br><br> In my recent research, I have established a  theoretical foundation that explains when and why accurate interpretable/simple models exist. To do so, I leveraged the Rashomon effect, which is the phenomenon when multiple models perform equally well, and proposed the first effort in quantifying the Rashomon effect. Turns out that when the measure of the Rashomon effect is large, well-performing simpler models are more likely to exist.-->
+research_interests: My research formalizes model multiplicity to transform the existence of multiple predictive truths into a mechanism for safe, trustworthy, and interpretable AI. I develop the theoretical foundations to characterize Rashomon sets and the optimization algorithms required to navigate them for outcomes like provable recourse and personalized alignment. My work bridges the gap between machine learning theory and the practical needs of high-stakes decision-making in healthcare and policy.
 
+# ---------------------------------------------------------------------------
+# One entry per paper. Fields: title, authors, venue, year, pdf_url, code_url,
+# video_url, bib_file (a file in assets/bib/), other (short italic note, e.g.
+# "spotlight"), workshop (an HTML line under the entry). Entries are grouped by
+# year automatically, newest first; within a year they appear in the order below.
+# ---------------------------------------------------------------------------
 publications:
 
+  # ---------------- 2026 ----------------
   - title: "The Double-Edged Nature of the Rashomon Set for Trustworthy Machine Learning"
     authors: Ethan Hsu, Harry Chen, Chudi Zhong, Lesia Semenova
-    venue: arXiv preprint arXiv:2511.21799 
-    year: 2025
+    venue: Proceedings of the International Conference on Machine Learning (ICML)
+    year: 2026
     pdf_url: https://arxiv.org/pdf/2511.21799
     code_url:
-    video_url: 
-    bib_file: hsu2025double.bib
-    other: 
+    video_url:
+    bib_file: hsu2026double.bib
+    other: spotlight
     workshop:
 
-  - title: "Many Ways to be Right: Rashomon Sets for Concept-Based Neural Networks"
-    authors: Shihan Feng, Cheng Zhang, Michael Xi, Ethan Hsu, Lesia Semenova, Chudi Zhong
-    venue: arXiv preprint arXiv:2511.19636
-    year: 2025
-    pdf_url: https://arxiv.org/pdf/2511.19636
+  - title: "Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods"
+    authors: Michal Moshkovitz*, Suraj Srinivas*, Lesia Semenova*, Nave Frost, Cyrus Rashtchian, Valentyn Boreiko, Shichang Zhang, Himabindu Lakkaraju, Cynthia Rudin, Jennifer Wortman Vaughan
+    venue: Proceedings of the International Conference on Machine Learning (ICML)
+    year: 2026
+    pdf_url: https://arxiv.org/pdf/2607.14123
     code_url:
-    video_url: 
-    bib_file: feng2025many.bib
-    other: 
+    video_url:
+    bib_file: moshkovitz2026position.bib
+    other:
     workshop:
 
+  - title: "Noise as a Natural Regularizer in Markov Decision Processes: Connecting Environmental Stochasticity and Policy Simplicity"
+    authors: Harry Chen, Yiyang Sun, Michal Moshkovitz, Zachery Boner, Lesia Semenova, Cynthia Rudin, Ronald Parr
+    venue: Proceedings of the International Conference on Machine Learning (ICML)
+    year: 2026
+    pdf_url: # TODO: add the camera-ready / arXiv link
+    code_url:
+    video_url:
+    bib_file: chen2026noise.bib
+    other:
+    workshop: An oral <a href="https://openreview.net/pdf?id=1G8tdr6eFb">workshop version</a> (<em>Transition Noise Facilitates Interpretability</em>) appeared at the Workshop on Interpretable Policies in Reinforcement Learning @ RLC 2024
+
+  - title: "Parameter-Efficient Construction of the Rashomon Slice for Concept Bottleneck Models"
+    authors: Shihan Feng, Cheng Zhang, Michael Xi, Ethan Hsu, Lesia Semenova, Chudi Zhong
+    venue: Transactions on Machine Learning Research (TMLR)
+    year: 2026
+    pdf_url: https://openreview.net/pdf?id=E8oetPdxH6
+    code_url:
+    video_url:
+    bib_file: feng2026parameter.bib
+    other:
+    workshop: 'An earlier version appeared on arXiv as <a href="https://arxiv.org/abs/2511.19636">Many Ways to be Right: Rashomon Sets for Concept-Based Neural Networks</a>'
+
+  - title: "Distinct Transcriptomic Profiles in ART-Treated People with HIV Are Associated with NF-κB–regulated Gene Expression and Inflammatory Cytokine Signatures"
+    authors: Yingfan Wang, German G. Gornalusse, Urja Bhatt, David A. Siegel, Alton Barbehenn, Rebecca Hoh, Jeffrey Martin, Frederick Hecht, Christopher Pilcher, Lesia Semenova, David M. Murdoch, David M. Margolis, Claire N. Levy, Keith R. Jerome, Cynthia D. Rudin, Florian Hladik, Steven G. Deeks, Sulggi A. Lee, Edward P. Browne
+    venue: JAIDS Journal of Acquired Immune Deficiency Syndromes
+    year: 2026
+    pdf_url: https://doi.org/10.1097/QAI.0000000000003929
+    code_url:
+    video_url:
+    bib_file: wang2026distinct.bib
+    other:
+    workshop:
+
+  - title: "The Asymmetric Harms of LLM Compression"
+    authors: Yuan Wu, Mairui Li, Lesia Semenova, Chudi Zhong
+    venue: arXiv preprint arXiv:2608.19670
+    year: 2026
+    pdf_url: https://arxiv.org/abs/2608.19670
+    code_url:
+    video_url:
+    bib_file: wu2026asymmetric.bib
+    other:
+    workshop:
+
+  - title: "When Are Simple Models Statistically Indistinguishable From the Best Possible Models?"
+    authors: Panyu Chen, Yiyang Sun, Zachery Boner, Lesia Semenova, Cynthia Rudin
+    venue: Under review
+    year: 2026
+    pdf_url: # TODO: add the preprint link when available
+    code_url:
+    video_url:
+    bib_file: chen2026simple.bib
+    other:
+    workshop:
+
+  - title: "RECLAIM: Robust Algorithmic Recourse with Actionable Missingness"
+    authors: Neil Gandhi, Maria George, Harry Chen, Lesia Semenova
+    venue: Under review
+    year: 2026
+    pdf_url: # TODO: add the preprint link when available
+    code_url:
+    video_url:
+    bib_file: gandhi2026reclaim.bib
+    other:
+    workshop:
+
+  # ---------------- 2025 ----------------
   - title: "ElliCE: Efficient and Provably Robust Algorithmic Recourse via the Rashomon Sets"
-    authors: Bohdan Turbal, Iryna Voitsitska, Lesia Semenova 
+    authors: Bohdan Turbal, Iryna Voitsitska, Lesia Semenova
     venue: Advances in Neural Information Processing Systems (NeurIPS)
     year: 2025
     pdf_url: https://openreview.net/pdf?id=GNDgQie8W4
@@ -48,21 +122,21 @@ publications:
     year: 2025
     pdf_url: https://openreview.net/pdf?id=RXsDPn3toF
     code_url: https://github.com/EtHsu0/rashomon-framework
-    video_url: 
+    video_url:
     bib_file: Hsu2025.bib
-    other: 
-    workshop: 
+    other:
+    workshop:
 
   - title: "This EEG Looks Like These EEGs: Interpretable Interictal Epileptiform Discharge Detection With ProtoEEG-kNN"
     authors: Dennis Tang, Jon Donnelly, Alina Jade Barnett, Lesia Semenova, Jin Jing, Peter Hadar, Ioannis Karakis, Olga Selioutski, Kehan Zhao, M. Brandon Westover, Cynthia Rudin
-    venue: Medical Image Computing and Computer Assisted Intervention (MICCAI) 
+    venue: Medical Image Computing and Computer Assisted Intervention (MICCAI)
     year: 2025
     pdf_url: https://papers.miccai.org/miccai-2025/paper/3200_paper.pdf
     code_url:
     video_url: https://nips.cc/virtual/2023/84594
     bib_file: TanDenThisMICCAI2025.bib
-    other: 
-    workshop: An oral <a href = "https://arxiv.org/pdf/2312.10056">workshop version</a> appeared at Medical Imaging meets NeurIPS Workshop
+    other:
+    workshop: An oral <a href="https://arxiv.org/pdf/2312.10056">workshop version</a> (<em>ProtoEEGNet</em>) appeared at the Medical Imaging meets NeurIPS Workshop 2023
 
   - title: "Navigating Progress: Enhancing Public Transit for More Equitable Communities via Interpretable Causal Inference"
     authors: Gaurav Rajesh Parikh, Jenny Huang, Albert Sun, Lesia Semenova, Cynthia Rudin
@@ -72,21 +146,33 @@ publications:
     code_url:
     video_url:
     bib_file: parikh2025navigating.bib
-    other: won 2022	American Statistical Association	Data Challenge Expo	Student	Competition.
-    workshop: A <a href = "https://openreview.net/pdf?id=ZNUcipRpUck">workshop version</a> appeared at NeurIPS 2022 Workshop on Causality for Real-world Impact
-    
-  - title: Using Noise to Infer Aspects of Simplicity Without Learning
-    authors: Zachery Boner*, Harry Chen*,  Lesia Semenova*, Ronald Parr, Cynthia Rudin
+    other: won the 2022 American Statistical Association Data Challenge Expo Student Competition
+    workshop: A <a href="https://openreview.net/pdf?id=ZNUcipRpUck">workshop version</a> appeared at the NeurIPS 2022 Workshop on Causality for Real-world Impact
+
+  - title: "Fast and Interpretable Mortality Risk Scores for Critical Care Patients"
+    authors: Chloe Qinyu Zhu, Muhang Tian, Lesia Semenova, Jiachang Liu, Jack Xu, Joseph Scarpa, Cynthia Rudin
+    venue: Journal of the American Medical Informatics Association (JAMIA)
+    year: 2025
+    pdf_url: https://doi.org/10.1093/jamia/ocae318
+    code_url: https://github.com/MuhangTian/GFR-Experiments
+    video_url:
+    bib_file: Zhu25.bib
+    other:
+    workshop:
+
+  # ---------------- 2024 ----------------
+  - title: "Using Noise to Infer Aspects of Simplicity Without Learning"
+    authors: Zachery Boner*, Harry Chen*, Lesia Semenova*, Ronald Parr, Cynthia Rudin
     venue: Advances in Neural Information Processing Systems (NeurIPS)
     year: 2024
     pdf_url: https://openreview.net/pdf?id=b172ac0R4L
     code_url:
     video_url:
     bib_file: BonerUsing24.bib
-    other: 
+    other:
+    workshop:
 
-    
-  - title: Amazing Things Come From Having Many Good Models
+  - title: "Amazing Things Come From Having Many Good Models"
     authors: Cynthia Rudin, Chudi Zhong, Lesia Semenova, Margo Seltzer, Ronald Parr, Jiachang Liu, Srikar Katta, Jon Donnelly, Harry Chen, Zachery Boner
     venue: Proceedings of the International Conference on Machine Learning (ICML)
     year: 2024
@@ -95,8 +181,32 @@ publications:
     video_url:
     bib_file: RudinEtAlAmazing2024.bib
     other: spotlight
+    workshop:
 
-  - title: A Path to Simpler Models Starts with Noise
+  - title: "Sparse Density Trees and Lists: An Interpretable Alternative to High-dimensional Histograms"
+    authors: Siong Thye Goh*, Lesia Semenova*, Cynthia Rudin
+    venue: INFORMS Journal on Data Science (IJDS)
+    year: 2024
+    pdf_url: https://pubsonline.informs.org/doi/pdf/10.1287/ijds.2021.0001
+    code_url: https://codeocean.com/capsule/2414499/tree/v1
+    video_url:
+    bib_file: Goh24.bib
+    other:
+    workshop:
+
+  - title: "Machine Learning Approaches Identify Immunologic Signatures of Total and Intact HIV DNA during Long-term Antiretroviral Therapy"
+    authors: Lesia Semenova, Yingfan Wang, Shane Falcinelli, Nancie Archin, Alicia D. Cooper-Volkheimer, David M. Margolis, Nilu Goonetilleke, David M. Murdoch, Cynthia D. Rudin, Edward P. Browne
+    venue: eLife
+    year: 2024
+    pdf_url: https://elifesciences.org/articles/94899
+    code_url:
+    video_url:
+    bib_file: SemenovaWang24.bib
+    other:
+    workshop:
+
+  # ---------------- 2023 ----------------
+  - title: "A Path to Simpler Models Starts with Noise"
     authors: Lesia Semenova, Harry Chen, Ronald Parr, Cynthia Rudin
     venue: Advances in Neural Information Processing Systems (NeurIPS)
     year: 2023
@@ -105,66 +215,30 @@ publications:
     video_url: https://neurips.cc/virtual/2023/poster/71482
     bib_file: SemenovaEtAl2023.bib
     other:
+    workshop:
 
-  - title: "Sparse Density Trees and Lists: An Interpretable Alternative to High-dimensional Histograms"
-    authors: Siong Thye Goh*, Lesia Semenova*, Cynthia Rudin
-    venue: INFORMS Journal on Data Science
-    year: 2024
-    pdf_url: https://pubsonline.informs.org/doi/pdf/10.1287/ijds.2021.0001
-    code_url: https://codeocean.com/capsule/2414499/tree/v1
-    video_url:
-    bib_file: Goh24.bib
-    other:
-
-  - title: Transition Noise Facilitates Interpretability
-    authors: Ronald Parr, Cynthia Rudin, Harry Chen, Zachery Boner, Michal Moshkovitz, Lesia Semenova
-    venue: Workshop on Interpretable Policies in Reinforcement Learning@ RLC-2024
-    year: 2024
-    pdf_url: https://openreview.net/pdf?id=1G8tdr6eFb
-    code_url:
-    video_url:
-    bib_file: Parr24.bib
-    other: oral
-
-  - title: Machine Learning Approaches Identify Immunologic Signatures of Total and Intact HIV DNA during Long-term Antiretroviral Therapy
-    authors: Lesia Semenova, Yingfan Wang, Shane Falcinelli, Nancie Archin, Alicia D Cooper-Volkheimer, David M Margolis, Nilu Goonetilleke, David M Murdoch, Cynthia D Rudin, Edward P Browne
-    venue: eLife
-    year: 2024
-    pdf_url: https://elifesciences.org/articles/94899
-    code_url:
-    video_url:
-    bib_file: SemenovaWang24.bib
-    other:
-
-  - title: Fast and Interpretable Mortality Risk Scores for Critical Care Patients
-    authors: Chloe Qinyu Zhu, Muhang Tian, Lesia Semenova, Jiachang Liu, Jack Xu, Joseph Scarpa, Cynthia Rudin
-    venue: Journal of the American Medical Informatics Association
-    year: 2025
-    pdf_url: https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocae318/7985531?utm_source=authortollfreelink&utm_campaign=jamia&utm_medium=email&guestAccessKey=f55f4ee9-adb8-4d0e-9588-c5c40858c4f8
-    code_url: https://github.com/MuhangTian/GFR-Experiments
-    video_url:
-    bib_file: Zhu25.bib
-    other:
-
-  - title: Impact of Cannabis Use on Immune Cell Populations and the Viral Reservoir in People With HIV on Suppressive Antiretroviral Therapy
-    authors: Shane D Falcinelli, Alicia Volkheimer, Lesia Semenova, Ethan Wu, Alexander Richardson, Manickam Ashokkumar, David M Margolis, Nancie M Archin, Cynthia D Rudin, David Murdoch, Edward P Browne
-    venue: The Journal of Infectious Disease (JID)
+  - title: "Impact of Cannabis Use on Immune Cell Populations and the Viral Reservoir in People With HIV on Suppressive Antiretroviral Therapy"
+    authors: Shane D. Falcinelli, Alicia Volkheimer, Lesia Semenova, Ethan Wu, Alexander Richardson, Manickam Ashokkumar, David M. Margolis, Nancie M. Archin, Cynthia D. Rudin, David Murdoch, Edward P. Browne
+    venue: The Journal of Infectious Diseases (JID)
     year: 2023
     pdf_url: https://www.biorxiv.org/content/10.1101/2022.12.22.521628v1.full.pdf
     code_url:
     video_url:
     bib_file: Falcinelli2023.bib
     other:
+    workshop:
 
-  - title: On the Existence of Simpler Machine Learning Models
+  # ---------------- 2022 ----------------
+  - title: "On the Existence of Simpler Machine Learning Models"
     authors: Lesia Semenova, Cynthia Rudin, Ronald Parr
-    venue: Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT)
+    venue: Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT)
     year: 2022
     pdf_url: https://arxiv.org/pdf/1908.01755
     code_url:
     video_url: "https://www.youtube.com/watch?v=_DFOQPqBb18"
     bib_file: SemenovaRuPa2022.bib
     other:
+    workshop:
 
   - title: "Interpretable Machine Learning: Fundamental Principles and 10 Grand Challenges"
     authors: Cynthia Rudin, Chaofan Chen, Zhi Chen, Haiyang Huang, Lesia Semenova, Chudi Zhong
@@ -173,69 +247,19 @@ publications:
     pdf_url: https://projecteuclid.org/journals/statistics-surveys/volume-16/issue-none/Interpretable-machine-learning-Fundamental-principles-and-10-grand-challenges/10.1214/21-SS133.full
     code_url:
     video_url:
-    bib_file: RudinEtAlAmazing2024.bib
+    bib_file: RudinEtAlSurvey2022.bib
     other:
+    workshop:
 
-  - title: Multitask Learning for Citation Purpose Classification
+  # ---------------- 2021 ----------------
+  - title: "Multitask Learning for Citation Purpose Classification"
     authors: Alex Oesterling, Angikar Ghosal, Haoyang Yu, Rui Xin, Yasa Baig, Lesia Semenova, Cynthia Rudin
-    venue: Second Workshop on Scholarly Document Processing at NAACL
+    venue: Second Workshop on Scholarly Document Processing (SDP) at NAACL
     year: 2021
     pdf_url: https://arxiv.org/pdf/2106.13275
     code_url:
     video_url:
     bib_file: Baig21.bib
-    other: oral, won <a href = "https://www.kaggle.com/c/3c-shared-task-purpose-v2/leaderboard">third place</a> in the 3C Shared Task Competition
-
-  - title: NF-κB Dependent Gene Expression and Plasma IL-1β, TNFα and GCSF Drive Transcriptomic Diversity and CD4:CD8 Ratio in People with HIV on ART
-    authors: Yingfan Wang, German G. Gornalusse, David A. Siegel, Alton Barbehenn, Rebecca Hoh, Jeffrey Martin, Frederick Hecht, Christopher Pilcher, Lesia Semenova, David M Murdoch, David M Margolis, Claire N. Levy, Keith R. Jerome, Cynthia D Rudin, Florian Hladik, Steven G. Deeks, Sulggi A. Lee, Edward P Browne
-    venue: bioRxiv
-    year: 2025
-    pdf_url: https://www.biorxiv.org/content/early/2025/02/14/2025.02.14.638232.full.pdf
-    code_url:
-    video_url:
-    bib_file: wang2025nf.bib
-    other:
-
+    other: oral, won <a href="https://www.kaggle.com/c/3c-shared-task-purpose-v2/leaderboard">third place</a> in the 3C Shared Task Competition
+    workshop:
 ---
-
-<!--
-- title: "Moving towards a more equal world, one ride at a time: Studying Public Transportation Initiatives using interpretable causal inference"
-    authors: Gaurav Rajesh Parikh, Albert Sun, Jenny Huang, Lesia Semenova, Cynthia Rudin
-    venue: NeurIPS 2022 Workshop on Causality for Real-world Impact
-    year: 2022
-    pdf_url: https://openreview.net/pdf?id=ZNUcipRpUck
-    code_url:
-    video_url:
-    bib_file: Parikh22.bib
-    other: won 2022	American Statistical Association	Data Challenge Expo	Student	Competition
-
-
-  - title: "ProtoEEGNet: An Interpretable Approach for Detecting Interictal Epileptiform Discharges"
-    authors: Dennis Tang, Frank Willard, Ronan Tegerdine, Luke Triplett, Jon Donnelly, Luke Moffett, Lesia Semenova, Alina Jade Barnett, Jin Jing, Cynthia Rudin, Brandon Westover
-    venue: Medical Imaging meets NeurIPS Workshop
-    year: 2023
-    pdf_url: https://arxiv.org/pdf/2312.10056
-    code_url:
-    video_url: https://nips.cc/virtual/2023/84594
-    bib_file: Tang23.bib
-    other: oral
-    
--->
-
-<!-- ---
-layout: page
-permalink: /research/
-title: research
-#description: Materials for courses you taught. Replace this text with your description.
-nav: true
-nav_order: 2
----
-
-In my research I am interested in ....
-
-
-<div class="publications">
-
-{% bibliography %}
-
-</div># -->
