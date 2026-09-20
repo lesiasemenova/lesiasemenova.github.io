@@ -2,7 +2,7 @@
 layout: about-custom
 title: about
 permalink: /
-subtitle: Safe, Trustworthy, and Interpretable AI #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Safety. Trustworthiness. Interpretability. #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -20,13 +20,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor of <a href = 'https://www.cs.rutgers.edu/'>Computer Science at Rutgers University</a>, where I lead a research group that advances the foundations, algorithms, and applied practice for <strong>safe, trustworthy, and interpretable AI through model and representation multiplicity</strong>. My work formalizes the Rashomon Effect—the existence of many equally accurate but behaviorally different models—to move the field beyond a single-model mindset.
+<p class="important-announcement">  <a href="/prospective_students/">I am recruiting highly motivated PhD students and research interns with strong technical backgrounds. The prospective students page describes current projects and how to apply.</a>.</p>
 
-A key question my work addresses is <strong>how to use model multiplicity in practice</strong>. By characterizing Rashomon sets, or sets of near-optimal models, I develop methods to navigate these spaces and identify models that satisfy additional desiderata, such as interpretability or robustness. This approach leverages model diversity to enable new algorithmic tools for robust recourse, personalized alignment, and stable decision-making in high-stakes fields like healthcare and public policy. Ultimately, <strong>my research aims to transform uncertainty from a source of instability into a resource for trust</strong>. I am increasingly extending these ideas to <strong>foundation models and LLMs</strong>, where multiplicity naturally arises through internal representations and reasoning paths.
+I am an Assistant Professor of <a href = 'https://www.cs.rutgers.edu/'>Computer Science at Rutgers University</a>, where I lead a research group that advances the foundations, algorithms, and applied practice for <strong>safe and trustworthy AI, and interpretable ML through model and representation multiplicity</strong>. My work formalizes the Rashomon Effect—the existence of many equally accurate but behaviorally different models—to move the field beyond a single-model mindset.
+
+A key question my work addresses is <strong>how to use model multiplicity in practice</strong>. By characterizing Rashomon sets, or sets of near-optimal models, I develop methods to navigate these spaces and identify models that satisfy additional desiderata, such as interpretability or robustness. This approach leverages model diversity to enable new algorithmic tools for robust recourse, personalized alignment, and stable decision-making in high-stakes fields like healthcare and public policy. Ultimately, <strong>my research aims to transform uncertainty from a source of instability into a resource for trust</strong>. I am increasingly extending these ideas to <strong>foundation models,  LLMs, and agentic systems</strong>, where multiplicity naturally arises through internal representations and reasoning paths.
 
 Before joining Rutgers, I was a postdoctoral researcher at [Microsoft Research (NYC)](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/) and received my PhD in Computer Science from [Duke University](https://cs.duke.edu/). Earlier, I worked on augmented reality at [Samsung R&D Institute Ukraine](https://research.samsung.com/srukr) and earned my MS and BS in Applied Mathematics from [Taras Shevchenko National University of Kyiv](https://knu.ua/en/).
-
-<p class="important-announcement">  <a href="/prospective_students/">I am currently recruiting students at Rutgers. If you're interested in collaborating or joining my group, please take a look at this page</a>.</p>
 
 
 <!--I am a computer scientist currently working as an Assitant Professor at the Department of Computer Science at Rutgers University. Prior, I was a postdoctoral researcher at Microsoft Research, NYC and received my doctorate from the Computer Science Department at Duke University. My research interests span machine learning, responsible and trustworthy AI, interpretability, human-centered design, AI in healthcare, reinforcement learning, and reasoning. I am especially interested in developing tools and pipelines to facilitate informed decision-making in high-stakes decision domains, as well as theoretically explaining phenomena that we often observe in practice.
