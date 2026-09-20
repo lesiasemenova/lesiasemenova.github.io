@@ -42,7 +42,7 @@ publications:
     authors: Harry Chen, Yiyang Sun, Michal Moshkovitz, Zachery Boner, Lesia Semenova, Cynthia Rudin, Ronald Parr
     venue: Proceedings of the International Conference on Machine Learning (ICML)
     year: 2026
-    pdf_url: # TODO: add the camera-ready / arXiv link
+    pdf_url: https://openreview.net/pdf?id=hRyilopCCT
     code_url:
     video_url:
     bib_file: chen2026noise.bib
