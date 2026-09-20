@@ -58,7 +58,7 @@ publications:
     video_url:
     bib_file: feng2026parameter.bib
     other:
-    workshop: 'An earlier version appeared on arXiv as <a href="https://arxiv.org/abs/2511.19636">Many Ways to be Right: Rashomon Sets for Concept-Based Neural Networks</a>'
+    workshop: 
 
   - title: "Distinct Transcriptomic Profiles in ART-Treated People with HIV Are Associated with NF-κB–regulated Gene Expression and Inflammatory Cytokine Signatures"
     authors: Yingfan Wang, German G. Gornalusse, Urja Bhatt, David A. Siegel, Alton Barbehenn, Rebecca Hoh, Jeffrey Martin, Frederick Hecht, Christopher Pilcher, Lesia Semenova, David M. Murdoch, David M. Margolis, Claire N. Levy, Keith R. Jerome, Cynthia D. Rudin, Florian Hladik, Steven G. Deeks, Sulggi A. Lee, Edward P. Browne
