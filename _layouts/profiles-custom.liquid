@@ -1,74 +1,64 @@
 ---
 layout: page
 ---
+{% comment %}
+  Group page: members in a responsive grid (3 per row on desktop, 2 on tablets,
+  1 on phones). Data comes from the page front matter:
+
+    groups:
+      - name: Group
+        compact: false            # optional; true = smaller photos (used for Alumni)
+        profiles:
+          - name: Jane Doe
+            affiliation: PhD student @ Rutgers
+            image: group/jane_doe.jpg          # in assets/img/
+            url: https://janedoe.github.io/    # optional; homepage, GitHub or LinkedIn - makes the name a link
+{% endcomment %}
 <style>
-  .imgtable {
-    margin: 10px 0; /* Margin between profiles */
+  .group-note { margin-bottom: 2.25rem; }
+  .group-section { margin-bottom: 2.5rem; }
+  .group-section h2 { font-size: 1.6rem; margin-bottom: 0.2rem; }
+  .group-divider { border: 0; height: 2px; background: var(--global-divider-color); margin: 0.4rem 0 1.6rem; }
+  .member { text-align: center; margin-bottom: 2.2rem; padding: 0 0.75rem; }
+  .member img {
+    width: 150px; height: 150px; border-radius: 50%; object-fit: cover;
+    display: block; margin: 0 auto 0.85rem; border: 1px solid rgba(127, 127, 127, 0.25);
+    background: var(--global-card-bg-color);
   }
-
-  hr {
-    margin: 5px 0; /* Margin for horizontal rules */
-  }
-
-  .group-separator {
-    border: none; /* Removes default border */
-    height: 2px; /* Height of the orange bar */
-    background-color: var(--global-divider-color); /* Color of the bar */
-    margin: 10px 0; /* Margin around the orange bar */
-  }
-
-  /* h2 {
-    font-size: 1.5em; 
-    margin: 0; 
-  } */
-
-  .group-spacing {
-    margin-top: 40px; /* Adds space before the next group */
-  }
+  .group-section.compact .member img { width: 104px; height: 104px; }
+  .group-section.compact .member { margin-bottom: 1.6rem; }
+  .member .name { font-weight: 600; font-size: 1.05rem; line-height: 1.3; }
+  .member .name a { color: inherit; }
+  .member .name a:hover { color: var(--global-hover-color); text-decoration: none; }
+  .member .role { color: var(--global-text-color-light); font-size: 0.92rem; line-height: 1.35; margin-top: 0.15rem; }
 </style>
 
 <div class="post">
-  <p style="margin-bottom: 40px;">{{ page.note }}</p>
-  <article>
-    {% if page.groups %}
-      {% for group in page.groups %}
-        <h2>{{ group.name }}</h2>
-        <div class="group-separator"></div>
-        <!-- Orange bar only after group title -->
-        {% if group.profiles %}
-          {% for profile in group.profiles %}
-            <table class="imgtable">
-              <tr>
-                <td>
-                  {% if profile.image %}
-                    <img
-                      src="{{ '/assets/img/' | append: profile.image }}"
-                      alt="{{ profile.name }}"
-                      width="100"
-                      height="100"
-                      class="{% if profile.image_circular %}circular-image{% endif %}"
+  {% if page.note %}<div class="group-note">{{ page.note }}</div>{% endif %}
 
-                    >&nbsp;
-                  {% endif %}
-                </td>
-                <td align="left">
-                  <p>
-                    {% if profile.url %}
-                      <a href="{{ profile.url }}" target="_blank" rel="noopener noreferrer">{{ profile.name }}</a>
-                    {% else %}
-                      {{ profile.name }}
-                    {% endif %}
-                    <br>
-                    {{ profile.affiliation }}
-                  </p>
-                </td>
-              </tr>
-            </table>
-          {% endfor %}
-        {% endif %}
-        <div class="group-spacing"></div>
-        <!-- Space before the next group -->
-      {% endfor %}
-    {% endif %}
-  </article>
+  {% for group in page.groups %}
+    <div class="group-section{% if group.compact %} compact{% endif %}">
+      <h2>{{ group.name }}</h2>
+      <hr class="group-divider">
+      <div class="row">
+        {% for profile in group.profiles %}
+          <div class="col-12 col-sm-6 col-md-4 member">
+            {% if profile.image %}
+              <img src="{{ '/assets/img/' | append: profile.image | relative_url }}" alt="{{ profile.name }}" loading="lazy">
+            {% endif %}
+            <div class="name">
+              {% if profile.url and profile.url != "" %}
+                <a href="{{ profile.url }}" target="_blank" rel="noopener noreferrer">{{ profile.name }}</a>
+              {% else %}
+                {{ profile.name }}
+              {% endif %}
+            </div>
+            {% if profile.affiliation %}
+              <div class="role">{{ profile.affiliation | replace: "->", "&rarr;" }}</div>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
 </div>

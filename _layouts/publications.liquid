@@ -19,7 +19,11 @@ layout: page
           <div class="pub-row" style="margin-bottom: 20px;">
             <div class="col-sm-9" style="padding-right: 15px; padding-left: 20px;">
               <div class="title">
-                <a href="{{ publication.pdf_url }}">{{ publication.title }}</a>
+                {% if publication.pdf_url %}
+                  <a href="{{ publication.pdf_url }}">{{ publication.title }}</a>
+                {% else %}
+                  {{ publication.title }}
+                {% endif %}
               </div>
               <div class="author">{{ publication.authors }}</div>
               <div class="venue">
