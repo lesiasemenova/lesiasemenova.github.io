@@ -124,6 +124,27 @@ nav: false
     opacity: 0.72;
   }
 
+  .mlii-page .schedule .milestone td {
+    background: var(--mlii-surface);
+  }
+
+  .mlii-page .schedule .lec {
+    display: inline-block;
+    font-size: 0.78rem;
+    font-weight: 600;
+    margin-right: 0.35rem;
+    min-width: 1.9rem;
+    opacity: 0.6;
+  }
+
+  .mlii-page .schedule .due {
+    color: var(--mlii-accent);
+    display: block;
+    font-size: 0.88rem;
+    font-weight: 600;
+    margin-top: 0.2rem;
+  }
+
   .mlii-page .calendar-note {
     font-size: 0.9rem;
     margin-top: 0.8rem;
@@ -140,10 +161,19 @@ nav: false
       padding: 0.62rem 0.55rem;
     }
 
+    .mlii-page .schedule th:first-child,
+    .mlii-page .schedule td:first-child {
+      width: 2.5rem;
+    }
+
     .mlii-page .schedule th:nth-child(2),
     .mlii-page .schedule td:nth-child(2) {
       white-space: normal;
-      width: 8rem;
+      width: 6.5rem;
+    }
+
+    .mlii-page .schedule .unit-row th {
+      text-align: left;
     }
   }
 </style>
@@ -174,7 +204,8 @@ nav: false
     </div>
     <div class="course-fact">
       <strong>Office hours</strong>
-      After class; email for a longer appointment
+      Lesia: after class; email for a longer appointment<br>
+      Rushi: Thursdays, 11:00 a.m.–12:00 p.m., Tillett Hall 125 or Zoom (link on Canvas)
     </div>
   </div>
 
@@ -189,6 +220,14 @@ nav: false
   </p>
 
   <p>
+    <strong>Quizzes.</strong> Quizzes take place in class on October 5, November 2, and November 19. Two weeks before each quiz, we release a practice quiz on Canvas, also available as a Canvas quiz for 2 extra-credit points. One week before the quiz, the extra-credit quiz closes and the answers are released.
+  </p>
+
+  <p>
+    <strong>Project milestones.</strong> Proposals and team declarations were due September 28. Project updates are due Monday, November 2, at 10:00 a.m., and the final project report is due Tuesday, December 1, at 10:00 a.m. Final presentations run December 3–10.
+  </p>
+
+  <p>
     <strong>Course communication.</strong> Canvas will be used for announcements, course materials, assignments, and class questions. Please use email for official or sensitive communication.
   </p>
 
@@ -199,7 +238,7 @@ nav: false
   <h2>Tentative schedule</h2>
 
   <p>
-    Topics and ordering may be adjusted during the semester based on pacing. Assignment releases and project deadlines will be announced separately on Canvas.
+    Topics and ordering of upcoming lectures may be adjusted based on pacing. Quiz dates and project deadlines are listed below; Canvas remains the place for announcements, materials, and submissions.
   </p>
 
   <div class="schedule-wrap">
@@ -213,43 +252,46 @@ nav: false
       </thead>
       <tbody>
         <tr class="unit-row"><th colspan="3" scope="colgroup">Machine-learning foundations</th></tr>
-        <tr><td>1</td><td>Thu, September 3</td><td>Course introduction: what does it mean to learn?</td></tr>
+        <tr><td>1</td><td>Thu, September 3</td><td><span class="lec">L1</span>Course introduction: learning from examples, loss, risk, and generalization</td></tr>
         <tr class="no-class"><td>2</td><td>Mon, September 7</td><td>No class — Labor Day</td></tr>
-        <tr><td>2</td><td>Tue, September 8</td><td>Supervised learning and empirical risk minimization <em>(Monday class schedule)</em></td></tr>
-        <tr><td>2</td><td>Thu, September 10</td><td>Generalization, validation, and evaluation</td></tr>
-        <tr><td>3</td><td>Mon, September 14</td><td>Linear models for regression and classification</td></tr>
-        <tr><td>3</td><td>Thu, September 17</td><td>Numerical computation, gradients, and automatic differentiation</td></tr>
+        <tr><td>2</td><td>Tue, September 8</td><td><span class="lec">L2</span>Cross-validation for evaluation and model selection <em>(Monday class schedule)</em></td></tr>
+        <tr><td>2</td><td>Thu, September 10</td><td><span class="lec">L3</span>Evaluation beyond accuracy: ROC curves, imbalanced data, and feature importance</td></tr>
+        <tr><td>3</td><td>Mon, September 14</td><td><span class="lec">L4</span>Linear regression, squared loss, and gradient descent</td></tr>
+        <tr><td>3</td><td>Thu, September 17</td><td><span class="lec">L5</span>Logistic regression, surrogate losses, and the perceptron</td></tr>
 
-        <tr class="unit-row"><th colspan="3" scope="colgroup">Neural networks and optimization</th></tr>
-        <tr><td>4</td><td>Mon, September 21</td><td>Multilayer perceptrons</td></tr>
-        <tr><td>4</td><td>Thu, September 24</td><td>Computational graphs and backpropagation</td></tr>
-        <tr><td>5</td><td>Mon, September 28</td><td>Activation functions</td></tr>
-        <tr><td>5</td><td>Thu, October 1</td><td>Initialization and vanishing or exploding gradients</td></tr>
-        <tr><td>6</td><td>Mon, October 5</td><td>Optimization for deep learning</td></tr>
-        <tr><td>6</td><td>Thu, October 8</td><td>Regularization and generalization in deep networks</td></tr>
+        <tr class="unit-row"><th colspan="3" scope="colgroup">Neural networks</th></tr>
+        <tr><td>4</td><td>Mon, September 21</td><td><span class="lec">L6</span>Neural networks: XOR, universal approximation, and backpropagation</td></tr>
+        <tr><td>4</td><td>Thu, September 24</td><td><span class="lec">L7</span>Training deep networks: activations, initialization, normalization, and regularization</td></tr>
 
-        <tr class="unit-row"><th colspan="3" scope="colgroup">Vision and sequential data</th></tr>
-        <tr><td>7</td><td>Mon, October 12</td><td>Convolutional neural networks</td></tr>
-        <tr><td>7</td><td>Thu, October 15</td><td>Modern convolutional architectures</td></tr>
-        <tr><td>8</td><td>Mon, October 19</td><td>Representation learning and transfer learning</td></tr>
-        <tr><td>8</td><td>Thu, October 22</td><td>Recurrent neural networks</td></tr>
-        <tr><td>9</td><td>Mon, October 26</td><td>LSTMs, GRUs, and sequence modeling</td></tr>
+        <tr class="unit-row"><th colspan="3" scope="colgroup">Convolutional networks and computer vision</th></tr>
+        <tr><td>5</td><td>Mon, September 28</td><td><span class="lec">L8</span>Convolutional neural networks: foundations<span class="due">Due: project proposals and team declarations</span></td></tr>
+        <tr><td>5</td><td>Thu, October 1</td><td><span class="lec">L9</span>CNN backbones: VGG, batch normalization, and ResNet</td></tr>
+        <tr class="milestone"><td>6</td><td>Mon, October 5</td><td><strong>Quiz 1</strong> (Lectures 1–5)</td></tr>
+        <tr><td>6</td><td>Thu, October 8</td><td>Guest lecture: Interpretable deep learning for medicine — Alina Barnett (University of Rhode Island)</td></tr>
+        <tr><td>7</td><td>Mon, October 12</td><td><span class="lec">L10</span>Modern CNNs, from labels to maps: transfer and representation learning, U-Net, and dense prediction</td></tr>
 
-        <tr class="unit-row"><th colspan="3" scope="colgroup">Attention and language models</th></tr>
-        <tr><td>9</td><td>Thu, October 29</td><td>Attention mechanisms</td></tr>
-        <tr><td>10</td><td>Mon, November 2</td><td>Transformers</td></tr>
-        <tr><td>10</td><td>Thu, November 5</td><td>Bidirectional transformers and BERT</td></tr>
-        <tr><td>11</td><td>Mon, November 9</td><td>Autoregressive language models and GPT</td></tr>
-        <tr><td>11</td><td>Thu, November 12</td><td>Pretraining, fine-tuning, and adapting foundation models</td></tr>
+        <tr class="unit-row"><th colspan="3" scope="colgroup">Classical methods review</th></tr>
+        <tr><td>7</td><td>Thu, October 15</td><td><span class="lec">L11</span>Decision trees, random forests, boosting, and support vector machines</td></tr>
+
+        <tr class="unit-row"><th colspan="3" scope="colgroup">Sequences, attention, and language models</th></tr>
+        <tr><td>8</td><td>Mon, October 19</td><td><span class="lec">L12</span>Recurrent neural networks, LSTMs, and GRUs</td></tr>
+        <tr><td>8</td><td>Thu, October 22</td><td><span class="lec">L13</span>Attention mechanisms: from sequence-to-sequence models to self-attention</td></tr>
+        <tr><td>9</td><td>Mon, October 26</td><td><span class="lec">L14</span>Transformers and vision transformers</td></tr>
+        <tr><td>9</td><td>Thu, October 29</td><td><span class="lec">L15</span>Bidirectional transformers and BERT</td></tr>
+        <tr class="milestone"><td>10</td><td>Mon, November 2</td><td><strong>Quiz 2</strong><span class="due">Due 10:00 a.m.: project updates</span></td></tr>
+        <tr><td>10</td><td>Thu, November 5</td><td><span class="lec">L16</span>Autoregressive language models and GPT</td></tr>
+        <tr><td>11</td><td>Mon, November 9</td><td><span class="lec">L17</span>Pretraining, fine-tuning, and adapting foundation models</td></tr>
 
         <tr class="unit-row"><th colspan="3" scope="colgroup">Deep generative models</th></tr>
-        <tr><td>12</td><td>Mon, November 16</td><td>Latent-variable models and variational autoencoders I</td></tr>
-        <tr><td>12</td><td>Thu, November 19</td><td>Variational autoencoders II</td></tr>
-        <tr><td>13</td><td>Mon, November 23</td><td>Generative adversarial networks</td></tr>
+        <tr><td>11</td><td>Thu, November 12</td><td><span class="lec">L18</span>Latent-variable models and variational autoencoders I</td></tr>
+        <tr><td>12</td><td>Mon, November 16</td><td><span class="lec">L19</span>Variational autoencoders II</td></tr>
+        <tr class="milestone"><td>12</td><td>Thu, November 19</td><td><strong>Quiz 3</strong></td></tr>
+        <tr><td>13</td><td>Mon, November 23</td><td><span class="lec">L20</span>Generative adversarial networks</td></tr>
         <tr class="no-class"><td>13</td><td>Thu, November 26</td><td>No class — Thanksgiving recess</td></tr>
-        <tr><td>14</td><td>Mon, November 30</td><td>Diffusion models</td></tr>
+        <tr><td>14</td><td>Mon, November 30</td><td><span class="lec">L21</span>Diffusion models</td></tr>
 
         <tr class="unit-row"><th colspan="3" scope="colgroup">Course projects</th></tr>
+        <tr class="milestone"><td>14</td><td>Tue, December 1</td><td><strong>Final project report due</strong> (10:00 a.m.)</td></tr>
         <tr><td>14</td><td>Thu, December 3</td><td>Final project presentations I</td></tr>
         <tr><td>15</td><td>Mon, December 7</td><td>Final project presentations II</td></tr>
         <tr><td>15</td><td>Thu, December 10</td><td>Final project presentations III</td></tr>
